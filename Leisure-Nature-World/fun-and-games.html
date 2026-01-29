@@ -1,0 +1,233 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Fun and Games</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            background: #f4f6f8;
+            margin: 0;
+            padding: 20px;
+            color: #1f2933;
+            line-height: 30px;
+        }
+
+        h1 {
+            color: #3b82f6;
+            text-align: center;
+        }
+
+        section {
+            background: white;
+            padding: 20px;
+            border-radius: 8px;
+            margin-bottom: 20px;
+            box-shadow: 0 2px 5px rgba(0, 0, 0, 0.05);
+        }
+
+        .table-wrapper {
+            overflow-x: auto;
+        }
+
+        table {
+            width: 100%;
+            border-collapse: collapse;
+            min-width: 500px;
+            margin-top: 10px;
+        }
+
+        th,
+        td {
+            border: 1px solid #e5e7eb;
+            padding: 8px;
+            text-align: left;
+            overflow: hidden;
+            word-wrap: break-word;
+        }
+
+        th:first-child,
+        td:first-child {
+            width: 40px;
+            text-align: center;
+        }
+
+        th:nth-child(2),
+        td:nth-child(2),
+        th:nth-child(3),
+        td:nth-child(3) {
+            width: 350px;
+            min-width: 200px;
+        }
+
+        th:nth-child(2),
+        td:nth-child(2) {
+            min-width: 120px;
+        }
+
+        th:last-child,
+        td:last-child {
+            width: auto;
+            min-width: 300px;
+        }
+
+        th {
+            background: #eef2ff;
+        }
+
+        ul {
+            margin: 0;
+            padding-left: 20px;
+        }
+    </style>
+</head>
+<body>
+    <h1>Fun and Games</h1>
+
+    <div id="content"></div>
+
+    <script>
+        const tables = [
+            {
+                title: "Topic Vocabulary",
+                columns: ["No.", "Word", "Definition", "Example"],
+                rows: [
+                    ["1", "beat", "win against someone", "England beat Germany."],
+                    ["2", "board game", "a game played on a board", "Chess is a popular board game."],
+                    ["3", "captain", "leader of a team", "She is the team captain."],
+                    ["4", "challenge (v)", "invite someone to compete", "They challenged us to a match."],
+                    ["5", "challenge (n)", "something difficult to do", "Climbing the mountain was a challenge."],
+                    ["6", "champion", "winner of an important competition", "He became world champion."],
+                    ["7", "cheat", "act dishonestly", "He cheated in the exam."],
+                    ["8", "classical music", "serious traditional music", "I enjoy classical music."],
+                    ["9", "club", "organisation for an activity", "I joined a tennis club."],
+                    ["10", "coach", "sports trainer", "The coach helped the team."],
+                    ["11", "competition", "event where people try to win", "She entered a competition."],
+                    ["12", "concert", "live music event", "We went to a concert."],
+                    ["13", "defeat (v)", "win against someone", "They defeated their opponents."],
+                    ["14", "defeat (n)", "failure to win", "The team suffered a defeat."],
+                    ["15", "entertaining", "fun and interesting", "The film was entertaining."],
+                    ["16", "folk music", "traditional music", "Folk music is popular here."],
+                    ["17", "group", "a small music band", "The group plays pop songs."],
+                    ["18", "gym", "place for exercise", "I go to the gym."],
+                    ["19", "have fun", "enjoy yourself", "We had fun at the party."],
+                    ["20", "interest (v)", "make someone curious", "Science interests me."],
+                    ["21", "interest (n)", "something you enjoy doing", "Reading is my main interest."],
+                    ["22", "member", "person in a group", "I am a member of the club."],
+                    ["23", "opponent", "person you compete against", "His opponent was strong."],
+                    ["24", "organise", "arrange an event", "She organised the event."],
+                    ["25", "pleasure", "feeling of happiness", "It was a pleasure to meet you."],
+                    ["26", "referee", "person who controls rules in sport", "The referee stopped the game."],
+                    ["27", "rhythm", "pattern of sound in music", "This song has a strong rhythm."],
+                    ["28", "risk (v)", "do something dangerous", "He risked his life."],
+                    ["29", "risk (n)", "possibility of danger", "There is a risk of injury."],
+                    ["30", "score (v)", "get a point in a game", "He scored two goals."],
+                    ["31", "score (n)", "number of points", "The score was 3–1."],
+                    ["32", "support (v)", "want a team to win", "I support Barcelona."],
+                    ["33", "support (n)", "help", "Thanks for your support."],
+                    ["34", "team", "group playing together", "Our team won."],
+                    ["35", "train", "practise sport", "They train every day."],
+                    ["36", "video game", "electronic game", "Kids love video games."]
+                ]
+            },
+            {
+                title: "Phrasal Verbs",
+                columns: ["No.", "Phrasal Verb", "Definition", "Example"],
+                rows: [
+                    ["1", "carry on", "continue", "Please carry on with your work."],
+                    ["2", "eat out", "eat at a restaurant", "We usually eat out on weekends."],
+                    ["3", "give up", "stop doing something you regularly do", "He gave up playing football."],
+                    ["4", "join in", "participate", "Everyone joined in the game."],
+                    ["5", "send off", "make a player leave a game", "The referee sent him off."],
+                    ["6", "take up", "start a hobby or activity", "She took up swimming."],
+                    ["7", "turn down", "reduce volume", "Turn down the music."],
+                    ["8", "turn up", "increase volume", "Turn up the TV."]
+                ]
+            },
+            {
+                title: "Prepositional Phrases",
+                columns: ["No.", "Phrase", "Definition", "Example"],
+                rows: [
+                    ["1", "for a long time", "for many years/minutes/etc.", "I’ve known him for a long time."],
+                    ["2", "for fun", "for enjoyment", "We play video games for fun."],
+                    ["3", "in the middle of", "in the centre of something", "She sat in the middle of the room."],
+                    ["4", "in time (for)", "early enough", "We arrived in time for the concert."],
+                    ["5", "on CD/DVD/video", "stored in that format", "I have the movie on DVD."],
+                    ["6", "on stage", "performing in front of an audience", "The band is on stage."]
+                ]
+            },
+            {
+                title: "Word Patterns",
+                columns: ["No.", "Pattern", "Meaning", "Example"],
+                rows: [
+                    ["1", "bored with", "not interested in something", "I’m bored with this game."],
+                    ["2", "crazy about", "like something very much", "He’s crazy about football."],
+                    ["3", "good at", "skilled in something", "She’s good at chess."],
+                    ["4", "interested in", "wanting to know about something", "I’m interested in music."],
+                    ["5", "keen on", "very interested in something", "He’s keen on swimming."],
+                    ["6", "popular with", "liked by many people", "This game is popular with kids."],
+                    ["7", "feel like", "want to do something", "I feel like watching a movie."],
+                    ["8", "listen to", "pay attention to sound", "I listen to music every day."],
+                    ["9", "take part in", "participate in something", "She took part in the competition."],
+                    ["10", "a book about", "a book on a topic", "I read a book about football."],
+                    ["11", "a fan of", "someone who likes something", "I’m a fan of classical music."],
+                    ["12", "a game against", "a match versus someone", "We played a game against our rivals."]
+                ]
+            },
+            {
+                title: "Word Formation",
+                columns: ["No.", "Word", "Forms"],
+                rows: [
+                    ["1", "act", "action, actor, inactive"],
+                    ["2", "athlete", "athletic, athletics"],
+                    ["3", "child", "children, childhood"],
+                    ["4", "collect", "collection, collector"],
+                    ["5", "entertain", "entertainment, entertaining"],
+                    ["6", "hero", "heroic, heroine"],
+                    ["7", "music", "musical, musician"],
+                    ["8", "play", "player, playful"],
+                    ["9", "sail", "sailing, sailor"],
+                    ["10", "sing", "sang, sung, song, singer, singing"]
+                ]
+            }
+        ];
+
+        const contentDiv = document.getElementById("content");
+
+        tables.forEach(tbl => {
+            const section = document.createElement("section");
+            const h2 = document.createElement("h2");
+            h2.textContent = tbl.title;
+            section.appendChild(h2);
+
+            const wrapper = document.createElement("div");
+            wrapper.className = "table-wrapper";
+
+            const table = document.createElement("table");
+
+            const trHead = document.createElement("tr");
+            tbl.columns.forEach(col => {
+                const th = document.createElement("th");
+                th.textContent = col;
+                trHead.appendChild(th);
+            });
+            table.appendChild(trHead);
+
+            tbl.rows.forEach(row => {
+                const tr = document.createElement("tr");
+                row.forEach(cell => {
+                    const td = document.createElement("td");
+                    td.textContent = cell;
+                    tr.appendChild(td);
+                });
+                table.appendChild(tr);
+            });
+
+            wrapper.appendChild(table);
+            section.appendChild(wrapper);
+            contentDiv.appendChild(section);
+        });
+    </script>
+</body>
+</html>
