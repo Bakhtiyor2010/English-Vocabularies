@@ -1,0 +1,678 @@
+| Phrasal Verb     | Meaning                                                  | Example                                                                 |
+| ---------------- | -------------------------------------------------------- | ----------------------------------------------------------------------- |
+| add up           | to find the total of                                     | The shop assistant added up what I'd bought and told me the total.      |
+| blow up          | to explode                                               | Luckily, the bomb didn't blow up.                                       |
+| break down       | to stop working (for a machine, etc)                     | Our car broke down on the motorway.                                     |
+| break in(to)     | to enter illegally                                       | A house in Brecon Place was broken into last night.                     |
+| bring up         | to take care of a child until he or she becomes an adult | She brought up three sons on her own.                                   |
+| build up         | to increase                                              | These exercises are good for building up leg strength.                  |
+| call back        | to ring again on the phone                               | I'll call you back later when you're not so busy.                       |
+| call off         | to cancel                                                | The concert has been called off because of the weather.                 |
+| calm down        | to become/make calmer                                    | The woman finally calmed down and explained what had happened.          |
+| carry on         | to continue                                              | The phone rang, but Mark just carried on.                               |
+| catch up (with)  | to reach the same point/level as                         | He's missed so much school that he's going to find it hard to catch up. |
+| cheer up         | to become/make happier                                   | I started to cheer up when the sun came out.                            |
+| clear up         | to tidy                                                  | I'll clear up if you want to go to bed.                                 |
+| come across      | to find something by chance                              | I came across a word I'd never seen before.                             |
+| come back (from) | to return (from)                                         | Give me a call when you come back from Greece.                          |
+| come on          | to be quicker                                            | Come on, or we'll be late!                                              |
+| come out         | to be published                                          | When does her new book come out?                                        |
+| cross out        | to draw a line through something                         | Just cross it out and rewrite it correctly.                             |
+| cut down (on)    | to do less of something (smoking, sugar, etc)            | I'm trying to cut down on the amount of sugar I eat.                    |
+| cut off          | to disconnect (phone, electricity, etc)                  | Pay the electricity bill tomorrow or they might cut us off.             |
+| cut off          | to completely remove by cutting                          | Keep your roses healthy by cutting off any dead flowers.                |
+| do up            | to button/zip up a piece of clothing                     | It's very windy, so do your coat up.                                    |
+| eat out          | to eat at a restaurant                                   | Would you like to stay in or eat out tonight?                           |
+| fall down        | to trip and fall                                         | I fell down and hurt my knee.                                           |
+| fall out (with)  | to have an argument with someone and stop being friends  | Have you two fallen out?                                                |
+| fill in          | to add information in the spaces on a form, etc          | Just fill in this application form, please.                             |
+| fill up          | to make something completely full                        | Just fill this bowl up with sugar and put it on the table.              |
+| find out         | to discover information, etc                             | I don't want Jerry to find out about this.                              |
+| get away with | to escape punishment for                     | They have repeatedly broken the law and got away with it.              |
+| get in(to)    | to enter a car                               | I hurt my head as I was getting into the car.                          |
+| get off       | to leave a bus/train/etc                     | You need to get off the bus opposite the supermarket.                  |
+| get on (with) | to have a good relationship (with)           | She seems to get on with everybody.                                    |
+| get on(to)    | to enter a bus/train/etc                     | You can buy a ticket when you get on the bus.                          |
+| get out (of)  | to leave a car/building/room/etc             | Quick! Get out of the car!                                             |
+| get over      | to recover from (an illness, etc)            | It can take weeks to get over an illness like that.                    |
+| get up        | to leave your bed                            | He never gets up before nine.                                          |
+| give away     | to give something free of charge             | They're giving away free tickets at the cinema!                        |
+| give back     | to return something you've taken/borrowed    | Could you give my CDs back because you've had them for two weeks?      |
+| give up       | to stop doing something you do regularly     | You should give up smoking.                                            |
+| go away       | to leave a place/someone                     | Why don't you just go away and leave me alone?                         |
+| go back (to)  | to return (to)                               | I can't wait to go back to Italy.                                      |
+| go off        | to no longer be fresh                        | Has this milk gone off?                                                |
+| go on         | to continue happening or doing something     | Please go on with your work while I speak to the head teacher.         |
+| go on         | to happen                                    | There isn't much going on in this town in the evening.                 |
+| go out        | to stop burning                              | The fire must have gone out during the night.                          |
+| go out with   | to be the boyfriend/girlfriend of            | Greg used to go out with Katy.                                         |
+| grow up       | to become older (for children)               | He rarely saw his father while he was growing up.                      |
+| hang on       | to wait                                      | Just hang on - I'll be ready in a minute.                              |
+| hang up       | to put clothes in a wardrobe, etc            | The women hung up their coats and sat down.                            |
+| hang up       | to put the receiver down to end a phone call | I can't believe that Jessica hung up without saying goodbye!           |
+| have on       | to wear (a piece of clothing)                | The man had a strange hat on.                                          |
+| hurry up      | to do something more quickly                 | We haven't got much time, so hurry up!                                 |
+| join in       | to participate, take part                    | Ask them if you can play - I'm sure they'll let you join in.           |
+| keep out      | to prevent from entering                     | Cars should be kept out of the city centre.                            |
+| leave out     | to not include                               | Don't leave your brother out - let him play with you and your friends. |
+| let down      | to disappoint                                | You've really let me down.                                             |
+| lie down      | to start lying (on a bed, etc)               | I'm going to go and lie down for a while.                              |
+| log off       | to disconnect from the Internet / a website  | Don't forget to log off when you've finished checking your e-mail.     |
+| log on(to)      | to connect to the Internet/a website            | You need your password to log on.                                |
+| look after      | to take care of                                 | It's hard work looking after three children all day.             |
+| look up         | to try to find information in a book, etc       | I had to look the word up in a dictionary.                       |
+| make up         | to invent an explanation, excuse, etc           | He made up some excuse about the dog eating his homework.        |
+| move in         | to start living in a new house, etc             | We're moving in next week.                                       |
+| pay back        | to return money (to someone)                    | Did you pay Denise back?                                         |
+| pick up         | to lift something from the floor, a table, etc  | Please pick those toys up and put them away.                     |
+| point out       | to tell someone important information           | He pointed out that we had two hours of free time before dinner. |
+| print out       | to make a paper copy of something on a computer | Let me print those photographs out for you.                      |
+| pull off        | to break by pulling                             | I pulled off the arm of my sunglasses by mistake.                |
+| put away        | to return something to where it belongs         | He put the notebook away and stood up.                           |
+| put back        | to return something to where it was             | Can you put the book back when you've finished with it?          |
+| put down        | to stop holding                                 | Emma put her bag down and went upstairs.                         |
+| put off         | to delay to a later time                        | Can we put the meeting off until tomorrow?                       |
+| put on          | to start wearing (a piece of clothing)          | Put your gloves and scarf on - it's cold outside.                |
+| put on          | to gain (weight)                                | I don't want to put on any more weight!                          |
+| put out         | to make something stop burning                  | It took three firefighters to put the fire out.                  |
+| put up          | to put something on a wall (eg a picture)       | The teachers will put a notice up about the new courses.         |
+| read out        | to say something out loud which you are reading | He read the list of names out.                                   |
+| rip up          | to tear into pieces                             | Rip up this piece of paper when you've finished reading it.      |
+| rub out         | to remove with a rubber                         | I can't rub it out because I wrote it in pen.                    |
+| run away (from) | to escape by running                            | The thief ran away from the police officers.                     |
+| run out (of)    | to not have any left                            | Many hospitals are running out of money.                         |
+| save up (for)   | to save money (for a specific purpose)          | I'm saving up for a new electric guitar.                         |
+| send off        | to make a player leave a game                   | It was a very bad foul and the referee sent the player off.      |
+| set off         | to start a journey                              | Go to sleep because we're setting off early in the morning.      |
+| set up          | to start (a business, organization, etc)        | My dad is going to set up a taxi company.                        |
+| share out    | to give a part of something to a group of people                   | The money will be shared out between 30 different environmental organizations.                                          |
+| shut up      | to stop talking, stop making a noise                               | Just shut up a minute and let me tell you what happened!                                                                |
+| sit down     | to (start to) sit                                                  | Please, sit down and make yourselves comfortable.                                                                       |
+| sort out     | to solve a problem                                                 | Investigators are still trying to sort out why the accident happened.                                                   |
+| speak up     | to talk more loudly so someone can hear                            | You have to speak up a bit because my gran's a bit deaf.                                                                |
+| split up     | to end a relationship                                              | Tommy and Liz have just split up. It's very sad!                                                                        |
+| stand up     | to (start to) stand                                                | You have the chair. I don't mind eating standing up.                                                                    |
+| stay up      | to go to bed late                                                  | We stayed up until two o'clock last night.                                                                              |
+| take away    | to remove                                                          | Have they taken the rubbish away yet?                                                                                   |
+| take back    | to return something to the place it came from                      | I'm going to take my library books back.                                                                                |
+| take down    | to remove (from a high place)                                      | The old man took a large book down from a shelf.                                                                        |
+| take off     | to leave the ground / to remove (a piece of clothing)              | Let's go and watch the planes taking off while we wait... / It felt good to finally take my shoes off after a long day. |
+| take over    | to take control of (a business, etc)                               | The shopping centre has been taken over by an American company.                                                         |
+| take up      | to start (a hobby, sport, etc)                                     | I've taken up stamp collecting and it's really interesting.                                                             |
+| throw away   | to put something in a rubbish bin                                  | Have you thrown the papers away?                                                                                        |
+| try on       | to put on (a piece of clothing) to see how it looks and if it fits | You should try it on to see if it's the right size.                                                                     |
+| turn down    | to lower the volume of                                             | Turn the radio down - I'm trying to work.                                                                               |
+| turn off     | to stop a machine working                                          | Will you turn the television off, please?                                                                               |
+| turn on      | to start a machine working                                         | Will you turn the television on, please?                                                                                |
+| turn over    | to turn something so the other side is towards you                 | You may turn over your exam papers now.                                                                                 |
+| turn up      | to increase the volume of                                          | We asked our teacher to turn the CD up, so that we could hear it.                                                       |
+| wake up      | to stop being asleep                                               | Wake up! It's nearly ten o'clock!                                                                                       |
+| wash up      | to wash plates, cups, cutlery, etc                                 | I can help to cook and wash up.                                                                                         |
+| watch out    | to be careful                                                      | Watch out - you're going to hit that car!                                                                               |
+| work out     | to find the solution to a problem, etc                             | We can't work out how to get the Internet connection going.                                                             |
+| write down   | to write information on a piece of paper                           | Do you want to write down my phone number?                                                                              |
+
+
+
+
+
+| Prepositional Phrase   | Meaning / Use                        | Example                                                                         |
+| ---------------------- | ------------------------------------ | ------------------------------------------------------------------------------- |
+| by accident            | unintentionally                      | I meant to call Helen, but I called Roger by accident.                          |
+| in addition (to)       | as well as                           | In addition to all the food, we took some games to play.                        |
+| at the age of          | when someone is a certain age        | I left home at the age of eighteen.                                             |
+| by air/sea/bus/car/etc | traveling via a particular transport | The best way to get there is by bus.                                            |
+| at the back (of)       | in the rear part                     | Let's go and sit at the back.                                                   |
+| in the beginning       | at first                             | I found Chinese hard to learn in the beginning, but it's easier now.            |
+| on board               | on a ship/plane/etc                  | The ship left as soon as all the passengers were on board.                      |
+| at the bottom (of)     | lowest part                          | What's it like at the bottom of the sea?                                        |
+| on business            | for work purposes                    | I travel a lot on business.                                                     |
+| in cash                | paying with money, not card/cheque   | The woman paid for the car in cash, which was unusual.                          |
+| on CD/DVD/video        | in recorded media format             | I didn't see it at the cinema, so I'm watching it on DVD tonight.               |
+| by chance              | unexpectedly / accidentally          | I met Venia by chance in the town centre.                                       |
+| in charge (of)         | responsible for                      | I'd like to speak to the person in charge.                                      |
+| on the coast           | near the sea                         | We used to live on the coast.                                                   |
+| in common (with)       | shared / alike                       | I've got nothing in common with you!                                            |
+| in comparison to/with  | comparing with                       | Germany is very small in comparison with Russia.                                |
+| in conclusion          | to sum up                            | In conclusion, I believe that television is a positive invention.               |
+| in good/bad condition  | the state of something               | For sale: camping equipment, in good condition.                                 |
+| in contact (with)      | communicating with                   | I'm still in contact with several friends from school.                          |
+| in the corner (of)     | located in a corner                  | In the corner of the room there was a guitar.                                   |
+| by credit card/cheque  | method of payment                    | Can I pay by cheque?                                                            |
+| in danger (of)         | at risk of                           | That house is in danger of falling down.                                        |
+| in debt                | owing money                          | It can be very worrying to be in debt.                                          |
+| on a diet              | eating less / special eating plan    | I'm on a diet at the moment so I'm not eating any fatty food.                   |
+| in the distance        | far away                             | Is that a car I can see in the distance?                                        |
+| on/off duty            | working / not working (job context)  | My dad's a policeman and he's often on duty at night.                           |
+| by e-mail/phone/letter | method of communication              | Get in touch by e-mail and I'll send you my photos.                             |
+| in the end             | finally                              | I thought we would get there at three, but in the end we arrived at five.       |
+| at the end (of)        | final part                           | At the end of the film, everyone got married.                                   |
+| in fact                | actually                             | Many people think Greece is hot in the winter but, in fact, it sometimes snows. |
+| in fashion/style       | currently popular                    | Those shoes are really in fashion at the moment.                                |
+| out of fashion/style   | no longer popular                    | Things seem to go out of fashion very quickly these days.                       |
+| in favour (of)         | supporting something                 | Are you in favour of school uniforms?                                           |
+| at first               | initially                            | I didn't like Mary at first, but then we became friends.                        |
+| on foot                | walking                              | Can we go from the hotel to the beach on foot, or is it better to take a bus?   |
+| in front (of)          | facing / before                      | Don't worry - you can park in front of our house.                               |
+| for fun                | for enjoyment                        | I sing in a band for fun.                                                       |
+| in the future          | later / time ahead                   | Will people live on other planets in the future?                                |
+| in general             | generally                            | In general, TV programmes are not educational.                                  |
+| by heart               | memorized                            | I've learnt the song by heart.                                                  |
+| on holiday             | during a vacation                    | Isn't it great to finally be on holiday?                                        |
+| for instance               | as an example           | Many countries, for instance the UK, don't have identity cards.           |
+| on the Internet            | using the Internet      | You can find a lot of information on the Internet.                        |
+| at last                    | finally                 | At last, we've arrived!                                                   |
+| against the law            | illegal                 | Stealing is against the law.                                              |
+| at least                   | minimum / not less than | It's cold, but at least it's not raining.                                 |
+| in love (with)             | romantically attached   | I'm in love with Chris.                                                   |
+| in a mess                  | untidy / disorganized   | Your room is in a mess. Go and tidy it!                                   |
+| in the middle (of)         | in the center           | In the middle of the stage, there was an elephant.                        |
+| by mistake                 | accidentally            | I meant to call Helen, but I called Roger by mistake.                     |
+| at the moment              | right now               | I'm busy at the moment.                                                   |
+| at most                    | maximum                 | The tickets should cost about €20 at most.                                |
+| on the news                | reported in the media   | They mentioned the accident on the news.                                  |
+| at night                   | during the night        | It usually gets dark at night.                                            |
+| in my opinion              | what someone thinks     | In my opinion, we shouldn't go to school on Saturdays.                    |
+| out of order               | not working / broken    | This phone is out of order. We'll have to find another one.               |
+| on your own                | alone                   | Did you go to the cinema on your own?                                     |
+| on the phone               | speaking via telephone  | Come in and wait a second - I'm just on the phone.                        |
+| under pressure             | stressed                | My dad is under a lot of pressure at work at the moment.                  |
+| in public                  | where others can see    | Politicians can say things in private that they can't say in public.      |
+| on purpose                 | deliberately            | I didn't do it on purpose.                                                |
+| on the radio               | broadcast via radio     | I first heard that song on the radio.                                     |
+| for rent                   | available to rent       | Do you have any rooms for rent?                                           |
+| in response to             | as a reply              | I am writing in response to your letter of 13th July.                     |
+| at risk                    | in danger               | You're at risk of failing the exam if you don't work harder.              |
+| for sale                   | available to buy        | I'm afraid the pictures on the wall aren't for sale.                      |
+| on schedule                | at the planned time     | Our train arrived on schedule.                                            |
+| in secret                  | secretly                | We planned a birthday party for Julie in secret.                          |
+| in shape                   | physically fit          | It's important to me to stay in shape, so I go to the gym whenever I can. |
+| in spite of                | despite                 | Tina seems to be happy, in spite of her recent problems.                  |
+| on stage                   | performing              | There were three actors on stage.                                         |
+| on strike                  | protesting at work      | We got a day off school because our teachers were on strike.              |
+| in tears                   | crying                  | When I found Fiona, she was in tears.                                     |
+| in your teens/twenties/etc | age range               | Life isn't always easy when you're in your teens.                         |
+| for a long time            | extended period         | I haven't seen George for a long time.                                    |
+| in time (for)              | early enough            | We arrived at the cinema just in time for the start of the film.          |
+| on time                    | punctual                | Make sure you are here on time tomorrow.                                  |
+| at times                   | occasionally            | I like studying French, but it can be hard work at times.                 |
+| at the top (of)            | highest point           | What was it like at the top of Mount Everest?                             |
+| on top (of)                | above / over something  | He sprinkled sugar on top of the cake.                                    |
+| in total                   | altogether              | In total, we made over €200 for charity.                                  |
+| in touch (with)            | communicating with      | I'm still in touch with several friends from school.                      |
+| in trouble                 | having problems         | We'll be in trouble if the teacher catches us.                            |
+| on TV                      | broadcast on television | Is there anything on TV tonight?                                          |
+| in my view                 | in my opinion           | In my view, we shouldn't go to school on Saturdays.                       |
+| by yourself                | alone                   | Did you go to the cinema by yourself?                                     |
+
+
+
+
+
+| Word Pattern                | Meaning / Use                         | Example                                                                      |
+| --------------------------- | ------------------------------------- | ---------------------------------------------------------------------------- |
+| accuse sb of                | to say someone did something wrong    | They accused me of stealing some money!                                      |
+| addicted to                 | dependent on something                | I'm glad I'm not addicted to drugs.                                          |
+| admire sb for               | to respect / look up to someone       | I really admire you for everything you've achieved.                          |
+| an advantage of             | a benefit of something                | One advantage of MP3 players is that they're very small.                     |
+| an advert(isement) for      | a commercial promoting something      | Have you seen that really funny advertisement for coffee?                    |
+| advise against              | to recommend not doing something      | I would advise against studying all night.                                   |
+| afraid of                   | feeling fear                          | I'm afraid of the dark.                                                      |
+| agree (with sb) about       | to share the same opinion             | I don't agree with you about that.                                           |
+| allergic to                 | having a reaction to something        | My mum is allergic to gold, so she can't wear any gold jewellery.            |
+| amazed at/by                | surprised / impressed                 | We were all amazed at/by the tricks the magician did.                        |
+| angry (with sb) about       | feeling upset with someone            | Are you angry with me about something?                                       |
+| apologise (to sb) for       | to say sorry                          | Simon apologised to me for losing my pen.                                    |
+| apply for                   | to request / apply (job, school, etc) | Yiota has applied for a job at the new hotel.                                |
+| approve of                  | to think something is good            | I don't approve of kids lying to their parents.                              |
+| argue (with sb) about       | to have a disagreement                | I don't want to argue with you about something so unimportant!               |
+| an argument (with sb) about | a disagreement                        | I had an argument with my dad about how much pocket money I get.             |
+| arrive at                   | reach a small place                   | Let's have dinner as soon as we arrive at the hotel.                         |
+| arrive in                   | reach a town/city/country             | I hope it's not raining when we arrive in Manchester.                        |
+| ashamed of                  | feeling embarrassed about something   | Aren't you ashamed of what you did?                                          |
+| ask (sb) about              | to request information                | Why don't you ask your dad about the party?                                  |
+| ask for                     | to request something                  | Ed asked for a pencil, so I lent him one.                                    |
+| aware of                    | knowing about something               | I'm not aware of any flights being cancelled.                                |
+| begin sth with              | to start with                         | Let's begin the lesson with a revision test.                                 |
+| believe in                  | to have faith / trust in              | Do you believe in UFOs?                                                      |
+| belong to                   | to be someone’s property              | Do these belong to you?                                                      |
+| blame sth on                | to say something/someone caused it    | I blame the accident on Jake.                                                |
+| blame sb for                | to hold someone responsible           | You can't blame Susie for what happened.                                     |
+| a book (by sb) about        | book authored by someone on a topic   | I read a great book by an English writer about travelling around Europe.     |
+| bored with                  | tired of / uninterested               | I'm bored with watching this film.                                           |
+| borrow sth from             | to take temporarily                   | You can borrow some money from me, if you like.                              |
+| buy sth from                | to purchase                           | Where did you buy your new shoes from?                                       |
+| capable of                  | able to do something                  | Are you capable of holding your breath under water for two minutes?          |
+| care about                  | to be concerned                       | Everyone should care about protecting the environment.                       |
+| careful with                | cautious                              | Please be careful with that vase - it was my grandmother's.                  |
+| change sth (from sth) into  | to transform                          | In the story, the witch changes the prince from a man into a frog.           |
+| chat (to sb) about          | to talk informally                    | I'll have a chat to Mrs Peters about your marks.                             |
+| cheat at/in                 | to be dishonest in a game/exam        | You should never cheat at cards. / You didn't cheat in the exam, did you?    |
+| choose between              | to select one of two or more options  | I love both my brother and my sister and I can't choose between them.        |
+| close to                    | near                                  | The Town Hall is quite close to my house.                                    |
+| combine sth with            | to mix / join                         | If you combine oxygen with hydrogen you get water.                           |
+| comment on                  | to give an opinion                    | The politician refused to comment on the situation.                          |
+| communicate with            | to exchange information               | I communicate with my cousins in Australia by e-mail.                        |
+| compare sth to/with         | to examine similarities/differences   | I'd like you to compare your composition to/with your partner's composition. |
+| complain (to sb) about      | to express dissatisfaction            | I'm going to complain to the manager about this.                             |
+| confuse sth with            | to mistake something                  | I think you've confused me with someone else.                                |
+| congratulate sb on          | to praise someone for achievement     | The coach congratulated us on winning the final.                             |
+| connect sth to/with  | join / link something            | Can you connect this wire to/with this one?                      |
+| continue with        | carry on doing something         | Continue with your work and I'll be back in a moment.            |
+| cope with            | deal successfully with           | I can't cope with all this homework!                             |
+| covered in/with      | completely touched by something  | My shoes are covered in/with mud.                                |
+| crazy about          | very enthusiastic / obsessed     | Marshall is crazy about video games.                             |
+| criticise sb for     | point out someone’s mistakes     | Don't criticise me for asking questions in class!                |
+| a cure for           | solution to an illness           | Will they ever find a cure for this disease?                     |
+| damage to            | harm done                        | Did the storm do a lot of damage to your house?                  |
+| deal with            | handle / take care of            | I'll deal with that problem tomorrow.                            |
+| decide on            | choose                           | Have you decided on the music for your party?                    |
+| depend on            | rely on / be influenced by       | Going to see your cousins this weekend depends on the weather.   |
+| describe sth as      | say what something is like       | 'Would you describe him as tall?' the police officer asked.      |
+| die from/of          | cause of death                   | You won't die from/of a cold!                                    |
+| a difference between | distinction                      | What's the difference between a crocodile and an alligator?      |
+| different from/to    | not the same as                  | This song is very different from/to their last one.              |
+| difficult for        | hard for someone                 | It must be difficult for Peter, having so many sisters.          |
+| disappointed with    | unhappy about                    | I like that actor, but I was disappointed with his last film.    |
+| disconnect sth from  | remove connection                | I'll disconnect the TV from the wall before I go to bed.         |
+| embarrassed about    | feeling awkward / shy            | I'm a bit embarrassed about what I did at the party last night.  |
+| enthusiastic about   | excited / passionate about       | John is really enthusiastic about the karaoke competition.       |
+| escape from          | get away from                    | How did they escape from prison?                                 |
+| explain sth to       | make something clear to someone  | Let me explain the rules of the game to you.                     |
+| familiar with        | having knowledge / experience of | We might need a map because I'm not very familiar with the area. |
+| famous for           | well-known because of            | This area is famous for cheese and pasta.                        |
+| a fan of             | admirer / supporter              | If you're a fan of Tony DeVito, you'll love his latest album.    |
+| far from             | distant                          | Is the cinema far from here?                                     |
+| fed up with          | bored / frustrated with          | I'm fed up with working here.                                    |
+| feel like            | want to / desire                 | What do you feel like doing this weekend?                        |
+| fight against        | oppose in battle / conflict      | The two countries once fought against each other in a war.       |
+| fill sth with        | make something full              | She filled the trolley with food.                                |
+| fond of              | liking someone / something       | I'm really fond of my dog!                                       |
+| forget about         | fail to remember                 | I'd completely forgotten about the party!                        |
+| forgive sb for       | stop being angry at someone      | I'll never forgive you for what you've done!                     |
+| frightened of        | afraid                           | Are you frightened of flying?                                    |
+| full of              | containing a lot of              | The cupboard is full of food.                                    |
+| a game against       | match played versus              | In a game against a local school I scored four goals.            |
+| glance at            | look quickly                     | I glanced at Clare and I could see that she was upset.           |
+| good at              | skillful in                      | What sports are you good at?                                     |
+| guilty of            | responsible for a crime          | He was found guilty of murder.                                   |
+| happen to            | occur to / befall                | What happened to you?                                            |
+| happy about/with     | pleased                          | David seemed to be happy about/with his exam results, anyway.    |
+| help (sb) with       | assist                           | Can I help you with that?                                        |
+| hide sth from sb     | keep something secret            | You can't hide anything from me!                                 |
+| an idea about        | knowledge / thought              | I've got no idea about computers.                                |
+| an increase in       | growth / rise                    | There's been an increase in traffic in the town centre recently. |
+| an influence on      | impact / effect                  | My uncle has had a strong influence on me.                       |
+| inform sb about      | give information                 | Please inform a member of staff about any problems you may have. |
+| information about    | knowledge about                  | I'd like some information about the local area, please.          |
+| insist on            | demand                           | My dad insists on my being home by ten o'clock.                  |
+| interested in        | curious / keen                   | I'm quite interested in history.                                 |
+| invite sb to         | ask someone to attend            | I'm going to invite everyone to my party.                        |
+| involved in          | taking part / engaged in         | When did he first become involved in crime?                      |
+| jealous of               | envious of                        | I'm jealous of Katy because she always has such nice clothes!                       |
+| a joke about             | something funny on a topic        | Trisha told us a joke about two penguins.                                           |
+| keen on                  | interested / enthusiastic         | I'm not very keen on spicy food.                                                    |
+| kind to                  | friendly / generous towards       | You've been very kind to me. Thank you!                                             |
+| a kind of                | a type / sort                     | Haddock is a kind of fish.                                                          |
+| know about               | have knowledge of                 | Do you know anything about astronomy?                                               |
+| late for                 | not on time                       | Hurry up or we'll be late for school.                                               |
+| laugh at                 | find funny / mock                 | Your problems will seem less serious if you can laugh at them.                      |
+| learn about              | study / get information           | We're learning about dinosaurs at school at the moment.                             |
+| lend sth to              | give temporarily                  | I haven't got any money because I lent €100 to Richard.                             |
+| a letter (from sb) about | correspondence on a topic         | I got a letter from Miranda about her new job.                                      |
+| listen to                | pay attention to sounds           | In my free time, I like to listen to music.                                         |
+| look at                  | direct eyes toward                | What are those people looking at?                                                   |
+| married to               | wedded / spouse                   | My brother is married to a woman called Margo.                                      |
+| nervous about            | anxious                           | I'm really nervous about appearing in the school play.                              |
+| a number of              | several                           | I've got a number of books about horses.                                            |
+| an opinion about / of    | view / belief                     | What's your opinion about/of classical music?                                       |
+| take part in             | participate                       | Have you ever taken part in a talent contest?                                       |
+| pay for                  | give money in exchange            | We paid for dinner by credit card and left.                                         |
+| a picture of             | image depicting                   | This is a picture of a family on holiday in Africa.                                 |
+| pleased with             | happy / satisfied                 | Are you pleased with your exam results?                                             |
+| popular with             | liked by many                     | This band is very popular with teenagers.                                           |
+| prepare for              | get ready                         | How do you prepare for a big match?                                                 |
+| prevent sb from          | stop someone from doing something | The wall is designed to prevent the animals from leaving.                           |
+| proud of                 | feeling satisfaction              | I'm sure your parents are very proud of you.                                        |
+| provide sb with          | give someone something            | The college provides all the students with books.                                   |
+| punish sb for            | penalize someone                  | You shouldn't punish someone for telling the truth.                                 |
+| a question about         | inquiry / request for info        | Can I ask you a question about the maths test?                                      |
+| ready for                | prepared                          | Are you ready for your exam tomorrow?                                               |
+| a reason for             | explanation / cause               | What was the reason for his anger?                                                  |
+| receive sth from         | get something from someone        | At the end of the course, you'll all receive a certificate from the college.        |
+| a recipe for             | instructions for making food      | My mum has got a great recipe for chocolate cake.                                   |
+| recover from             | get better after illness / injury | I hope you've recovered from your injury.                                           |
+| refer to                 | mention / point out               | I realised Doug was in charge when one of the others referred to him as "the boss". |
+| a relationship with      | connection / association          | Do you have a good relationship with your parents?                                  |
+| rely on                  | depend on                         | You can always rely on Andrew.                                                      |
+| remind sb of             | make someone remember             | Who does this picture remind you of?                                                |
+| remove sth from          | take away                         | You have to remove this piece of card.                                              |
+| reply to                 | respond                           | Don't forget to reply to Kelly's letter, will you?                                  |
+| responsible for          | in charge of                      | Who's responsible for cleaning the classroom?                                       |
+| result in                | lead to                           | Falling out of the tree resulted in me going to hospital!                           |
+| save sth from            | prevent loss / harm               | We've got to save lots of animals from becoming extinct.                            |
+| scared of                | afraid of                         | Hold my hand - there's nothing to be scared of.                                     |
+| send sth to sb           | deliver / give to                 | I'm going to send some photographs to Irene.                                        |
+| serious about            | focused / committed               | If you're serious about being a doctor, I'll give you some advice.                  |
+| share sth with           | give part to someone              | I'll share this bar of chocolate with you.                                          |
+| short of                 | lacking / not enough              | I'm very short of money!                                                            |
+| similar to               | alike                             | Horse meat tastes a little similar to beef, or lamb.                                |
+| smell of                 | give off an odor                  | These sweets smell of flowers.                                                      |
+| smile at                 | show happiness / amusement        | Smile at the camera!                                                                |
+| a solution to            | answer / fix                      | I hope we can find a solution to that problem soon.                                 |
+| sorry about/for          | apologetic                        | I'm sorry about/for what I said to Susie.                                           |
+| spend sth on              | use money/time for something         | What do you spend your pocket money on each week?                      |
+| succeed in                | achieve / accomplish                 | I really hope you succeed in all your exams.                           |
+| suitable for              | appropriate                          | This film is not suitable for children under the age of 15.            |
+| sure about/of             | confident / certain                  | I'm not sure about/of the answer.                                      |
+| surprised at/by           | feeling astonished                   | We were all surprised at/by Tom's decision to give up football.        |
+| talented at               | skilled in                           | Cilla is really talented at singing.                                   |
+| talk (to sb) about        | speak to someone about something     | What were you talking to James about?                                  |
+| tell sb about             | give information                     | I've got something to tell you about.                                  |
+| think about               | consider / reflect                   | I'm going to think about that carefully.                               |
+| tired of                  | bored / fed up with                  | I'm tired of helping people and not even getting a "thank you" for it. |
+| translate (from sth) into | convert language                     | The notice had been translated from Japanese into English.             |
+| a type of                 | kind / category                      | How many types of music can you think of?                              |
+| wait for                  | stay until someone/something arrives | Are you waiting for a taxi?                                            |
+| work as                   | have a job                           | I've always wanted to work as a lawyer.                                |
+| work for                  | be employed by                       | Rupert isn't a bad boss to work for.                                   |
+| worry about               | feel anxious                         | I'm very worried about Tracy.                                          |
+| write (to sb) about       | communicate in writing               | Write to your grandma about what you bought with your Christmas money. |
+| wrong about               | mistaken                             | I think Serena is wrong about Ian - he seems really nice to me.        |
+| wrong with                | broken / problematic                 | There's something wrong with my watch.                                 |
+
+
+
+
+
+| Word Form    | Example                                                                        |
+| ------------ | ------------------------------------------------------------------------------ |
+| ability      | I admire your ability to speak so many different languages.                    |
+| disabled     | Lots of disabled people have jobs.                                             |
+| unable       | I'm unable to attend the meeting tomorrow.                                     |
+| action       | They say that actions speak louder than words.                                 |
+| actor        | I would love to be an actor.                                                   |
+| active       | Johnnie is six years old, so he's very active and has a lot of energy.         |
+| inactive     | I've been a bit inactive since I got a job in an office.                       |
+| addition     | The team is much better with the addition of Simon Jones.                      |
+| admiration   | I'm full of admiration for Jamie.                                              |
+| advise       | I would advise you not to get that MP3 player.                                 |
+| adviser      | Phil works as a housing adviser for the local council.                         |
+| affordable   | The homes we sell are very affordable.                                         |
+| agreement    | We're all in agreement about this.                                             |
+| disagree     | I'm afraid I disagree.                                                         |
+| artist       | Picasso was a great artist.                                                    |
+| artistic     | Ralph has always been artistic and he loves drawing.                           |
+| assistant    | My mum has an assistant at work who helps her.                                 |
+| assistance   | The police officer offered her assistance to the old woman.                    |
+| athletic     | You need to be very athletic to play volleyball.                               |
+| athletics    | When we go to the Olympics, I want to see the athletics.                       |
+| attractive   | The south of England is really attractive at this time of year.                |
+| attraction   | The old castle is probably the most popular attraction in this area.           |
+| backwards    | Have you ever tried running backwards?                                         |
+| baker        | The baker is making a cake for the party.                                      |
+| bakery       | I'll go to the bakery to get some bread.                                       |
+| beggar       | I was surprised to see beggars on the streets of London.                       |
+| began        | The lesson began at ten o'clock.                                               |
+| begun        | We'd already begun when Sam arrived.                                           |
+| beginner     | She lost the game, but she is only a beginner.                                 |
+| beginning    | I missed the end of the film, but I saw the beginning.                         |
+| believe      | I don't believe you!                                                           |
+| believable   | The film was completely believable.                                            |
+| unbelievable | That's unbelievable! It can't be true!                                         |
+| bent         | I had an accident on my bike and now the front wheel is bent.                  |
+| boiler       | There's a problem with the boiler, so there's no hot water.                    |
+| boiling      | The pan was full of boiling water.                                             |
+| boring       | This game is really boring.                                                    |
+| bored        | Let's do something else. The start of the film was okay, but I soon got bored. |
+| bossy        | Stop telling me what to do and don't be so bossy all the time!                 |
+| bravery      | The police officer got an award for bravery.                                   |
+| broke        | I dropped the cup on the floor and it broke.                                   |
+| broken       | You can't use my MP3 player because it's broken.                               |
+| breakable    | Are these pots breakable?                                                      |
+| unbreakable  | This window is made out of unbreakable glass.                                  |
+| careful      | Be careful!                                                                    |
+| careless     | I made a lot of silly mistakes because I was careless.                         |
+| central      | They live in central London.                                                   |
+| certainly    | The weather is certainly getting better, isn't it?                             |
+| certainty    | 'Matt must have left,' George said with certainty.                             |
+| chemical     | Sodium is a chemical.                                                          |
+| chemistry    | I like doing chemistry at school.                                              |
+| children     | I watched some children playing in the playground.                             |
+| childhood    | My mum spent her childhood in France.                                          |
+| chose         | Sylvia finally chose chocolate ice cream.                                             |
+| chosen        | Take the book you have chosen and get it stamped by the librarian.                    |
+| choice        | You have a choice - you can either have strawberry or chocolate ice cream.            |
+| circular      | Our dining table is circular.                                                         |
+| collection    | John has got a great collection of football shirts.                                   |
+| collector     | I sold my old stamps to a collector.                                                  |
+| comedian      | My favourite comedian is Jim Carrey.                                                  |
+| comfortable   | That sofa looks very comfortable, doesn't it?                                         |
+| uncomfortable | After four hours on the plane, I was beginning to feel uncomfortable.                 |
+| communication | This course is designed to improve your communication skills.                         |
+| comparison    | You can't draw a comparison between Tim and Alex- they're completely different.       |
+| composition   | Please give me your compositions on Thursday.                                         |
+| composer      | Mozart is my favourite composer.                                                      |
+| conclusion    | I've come to the conclusion that exams are useful.                                    |
+| confidence    | You need confidence to perform in public.                                             |
+| confused      | I'm still confused about what happened.                                               |
+| confusion     | There was a lot of confusion when the fire alarm went off.                            |
+| connection    | My connection to the Internet costs about €30 a month.                                |
+| disconnect    | You need to disconnect the DVD player from the TV before you connect the PlayStation. |
+| cooker        | We bought a new gas cooker yesterday.                                                 |
+| cookery       | Can I borrow your cookery book?                                                       |
+| correction    | I've made a few corrections to your article.                                          |
+| incorrect     | I'm afraid that's incorrect.                                                          |
+| courageous    | That was very courageous of you.                                                      |
+| dangerous     | It's dangerous to drive very fast.                                                    |
+| decision      | So, what's your final decision?                                                       |
+| deeply        | That's when I fell deeply in love with him.                                           |
+| depth         | What's the depth of the swimming pool?                                                |
+| delivery      | There's a van outside - are you expecting a delivery?                                 |
+| departure     | British Airways announces the departure of flight BA 632 to Moscow.                   |
+| destruction   | We've got to stop the destruction of the local environment.                           |
+| destructive   | Storms can be very destructive.                                                       |
+| direction     | Which direction did he go in?                                                         |
+| division      | I'm good at multiplication, but not division.                                         |
+| drove         | I can't believe you drove all the way to Paris.                                       |
+| driven        | Can electric cars be driven on the roads in the UK?                                   |
+| driver        | I asked the taxi driver to slow down.                                                 |
+| education     | Every child should get an education.                                                  |
+| election      | Who are you going to vote for in the election?                                        |
+| emotional     | Nigel is quite an emotional person and gets upset very easily.                        |
+| employment    | What kind of employment are you looking for, Mr Rogers?                               |
+| unemployment  | Unemployment is a really big problem in this area.                                    |
+| employer      | Your employer is responsible for providing training.                                  |
+| employee      | Our boss doesn't always let all the employees know what's happening.                  |
+| unemployed    | My uncle has been unemployed for more than five years now.                            |
+| energetic     | Jack is really energetic. I can't keep up with him!                                   |
+| entertainment | There isn't much entertainment in the evenings in my town.                            |
+| equality      | I believe in equality for women.                                                      |
+| unequal       | They had 15 people in their team and we only had 12, so it was unequal.               |
+| exam(ination) | I've got a French exam(ination) tomorrow.                                             |
+| examiner      | The examiner was very friendly.                                                       |
+| fascination  | Where did your fascination for cars come from?                           |
+| fascinating  | I've always found cars fascinating.                                      |
+| except       | Everyone, with the exception of James, passed the test.                  |
+| exception    | Everyone, with the exception of James, passed the test.                  |
+| excite       | Swimming with dolphins must be really exciting.                          |
+| excitement   | Come to Adventure World for fun and excitement!                          |
+| exciting     | Swimming with dolphins must be really exciting.                          |
+| excited      | I'm so excited about Georgia's party!                                    |
+| exhibit      | Have you seen the Egyptian exhibition at the museum?                     |
+| exhibition   | Have you seen the Egyptian exhibition at the museum?                     |
+| expense      | It's nice, but isn't it a bit expensive?                                 |
+| expensive    | It's nice, but isn't it a bit expensive?                                 |
+| inexpensive  | The clothes in that shop are good quality, and quite inexpensive.        |
+| express      | What does the expression 'save someone's bacon' mean?                    |
+| expression   | What does the expression 'save someone's bacon' mean?                    |
+| expressive   | French seems to me to be a very expressive language.                     |
+| fame         | I'm quite shy, so I don't think I'd like to be famous.                   |
+| famous       | I'm quite shy, so I don't think I'd like to be famous.                   |
+| fascinate    | I've always found cars fascinating.                                      |
+| feel         | I've never felt so happy in my whole life.                               |
+| felt         | I've never felt so happy in my whole life.                               |
+| feeling      | I have a feeling that I've been here before.                             |
+| feelings     | You really hurt my feelings last night.                                  |
+| fly          | A bird flew past the window.                                             |
+| flew         | A bird flew past the window.                                             |
+| flown        | Have you ever flown in such a small plane?                               |
+| flight       | Our flight leaves at three in the morning.                               |
+| fog          | It was so foggy I couldn't see my feet!                                  |
+| foggy        | It was so foggy I couldn't see my feet!                                  |
+| forgive      | Colin apologised, so I forgave him.                                      |
+| forgave      | Colin apologised, so I forgave him.                                      |
+| forgiven     | I've forgiven you.                                                       |
+| forgiveness  | I'm asking for your forgiveness.                                         |
+| free         | People often have to fight for their freedom.                            |
+| freedom      | People often have to fight for their freedom.                            |
+| garden       | My grandfather is an amateur gardener.                                   |
+| gardener     | My grandfather is an amateur gardener.                                   |
+| gardening    | Gardening is a very relaxing pastime.                                    |
+| hand         | I asked my dad for some money and he gave me a handful of coins.         |
+| handful      | I asked my dad for some money and he gave me a handful of coins.         |
+| handle       | Put the money in, pull the handle and your chocolate bar comes out here. |
+| happy        | You’ve never felt so happy in your life.                                 |
+| unhappy      | You seem a little unhappy.                                               |
+| happiness    | I don't think that money brings you happiness.                           |
+| unhappiness  | There's a lot of unhappiness in the world.                               |
+| hate         | Why is there so much hatred between people from these two countries?     |
+| hatred       | Why is there so much hatred between people from these two countries?     |
+| help         | Can I help?                                                              |
+| helpful      | Thank you, you've been very helpful.                                     |
+| unhelpful    | That shop assistant was really unhelpful.                                |
+| helpless     | I felt helpless and didn't know what to do.                              |
+| hero         | The story was all about two heroic young men.                            |
+| heroic       | The story was all about two heroic young men.                            |
+| heroine      | The heroine of the book finally gets married.                            |
+| history      | It's a(n) historic building.                                             |
+| historic     | It's a(n) historic building.                                             |
+| historian    | I want to be a(n) historian.                                             |
+| honest       | I don't like people who are dishonest.                                   |
+| dishonest    | I don't like people who are dishonest.                                   |
+| honesty      | Honesty is a very important quality in a friend.                         |
+| identify     | She hid her identity by wearing a disguise.                              |
+| identity     | She hid her identity by wearing a disguise.                              |
+| identical    | These two pictures are identical.                                        |
+| imagine      | Theresa has got a lot of imagination.                                    |
+| imagination  | Theresa has got a lot of imagination.                                    |
+| inform       | Your e-mail was very informative-thanks.                                 |
+| imaginative  | Your story was really imaginative.                                       |
+| informative  | Your e-mail was very informative-thanks.                                 |
+| instruct     | Listen carefully to the instructions before you do the exercise.         |
+| information  | Have they got any more information about the explorers yet?              |
+| instruction  | Listen carefully to the instructions before you do the exercise.         |
+| instructor   | She's a driving instructor.                                              |
+| intelligent  | It's not easy to measure the intelligence of chimpanzees.                |
+| intelligence | It's not easy to measure the intelligence of chimpanzees.                |
+| intend       | It wasn't my intention to upset you.                                     |
+| intention    | It wasn't my intention to upset you.                                     |
+| intentional  | It wasn't intentional! I did it by mistake!                              |
+| introduce    | I didn't read the introduction to the book.                              |
+| introduction | I didn't read the introduction to the book.                              |
+| invade       | Julius Caesar led the Roman invasion of Britain.                         |
+| invasion     | Julius Caesar led the Roman invasion of Britain.                         |
+| invader      | Local people fought against the invaders.                                |
+| jog          | I go jogging every morning.                                              |
+| jogging      | I go jogging every morning.                                              |
+| jogger       | The park is full of joggers in the morning.                              |
+| judgement      | Nobody was surprised at the judgement—not even the criminal himself.          |
+| liar           | You're a liar!                                                                |
+| lying          | Lying to your friends is very bad.                                            |
+| live           | I used to live in Canada.                                                     |
+| alive          | I'm glad I'm alive!                                                           |
+| length         | I swam the length of the swimming pool.                                       |
+| lucky          | Do you think you're a lucky person generally?                                 |
+| unlucky        | We were unlucky to lose the match.                                            |
+| luckily        | Luckily, I won the game.                                                      |
+| unluckily      | Unluckily, our car broke down.                                                |
+| measurement    | They took measurements of the level of pollution in the river.                |
+| medical        | Is it a serious medical problem?                                              |
+| memorise       | Do we have to memorise all these irregular verbs?                             |
+| memorial       | There's a memorial to Mr Watkins in the school garden.                        |
+| musical        | Do you have much musical talent?                                              |
+| musician       | It's not easy becoming a professional musician.                               |
+| nationality    | What's her nationality? Is she French?                                        |
+| national       | Tomorrow is a national holiday.                                               |
+| international  | We're an international organisation.                                          |
+| natural        | It's an area of great natural beauty.                                         |
+| naturally      | Is your hair naturally curly?                                                 |
+| noisy          | It's very noisy in here! I can't hear what you're saying.                     |
+| noisily        | Larry came in at four in the morning and noisily took his boots off.          |
+| occupation     | The form asked for my occupation and I wrote 'Student'.                       |
+| officer        | A police officer saw the man take the bicycle and started to chase after him. |
+| official       | They haven't made an official announcement of the reason for the delay yet.   |
+| unofficial     | The decision is unofficial until the boss signs the agreement.                |
+| painful        | My knee is very painful.                                                      |
+| painless       | The operation is painless—it won't hurt at all.                               |
+| peaceful       | You looked very peaceful when you were asleep.                                |
+| peacefully     | The dog was sleeping peacefully when it suddenly heard a noise.               |
+| perfection     | You can make your painting better and better, but perfection is impossible.   |
+| imperfect      | Don't feel too bad about what you did. We're all imperfect.                   |
+| personality    | Fiona has got a great personality.                                            |
+| personal       | I've got a few personal problems to sort out.                                 |
+| player         | One of the players was injured when he scored a goal.                         |
+| playful        | My baby brother is very playful.                                              |
+| pollution      | There are lots of different kinds of pollution.                               |
+| polluted       | Polluted rivers are not safe to swim in.                                      |
+| prediction     | My prediction is that City will win the match 2-0 on Sunday.                  |
+| predictable    | You're so predictable—I knew you were going to say that!                      |
+| unpredictable  | Be careful! Their dog is quite unpredictable.                                 |
+| preference     | I'd like pizza, but that's just my personal preference.                       |
+| preferable     | I think flying is preferable to going there by train.                         |
+| preparation    | The key to a good performance is a lot of preparation.                        |
+| prisoner       | The prisoner asked the guard for a blanket.                                   |
+| recommendation | We made a number of recommendations to the manager.                           |
+| reduction      | There's been a small reduction in the price of petrol.                        |
+| reference      | I'm applying for a job, so could you write me a reference?                    |
+| refusal        | We were all surprised by Danny's refusal to apologise.                        |
+| relative       | Are all your relatives coming to the wedding?                                 |
+| relation       | Are all your relations coming to the wedding?                                 |
+| relationship   | I have a great relationship with all my teachers.                             |
+| retired      | My grandad is retired and has lots of hobbies.                                       |
+| retirement   | My dad seems to be looking forward to retirement.                                    |
+| save         | The man next to me saved me when I almost fell in front of the train.                |
+| unsafe       | Don't go into that old house—it’s unsafe.                                            |
+| safety       | Safety at work is very important.                                                    |
+| sailing      | I love sailing and I try to go every summer.                                         |
+| sailor       | A sailor helped us put our bags onto the ship.                                       |
+| scientist    | Albert Einstein was a scientist.                                                     |
+| secretly     | Jim secretly placed the love letter in Andrea's bag.                                 |
+| secrecy      | I don't like all this secrecy.                                                       |
+| sensible     | It was sensible to bring an umbrella.                                                |
+| sensitive    | Dave is very sensitive, so don't criticise him.                                      |
+| service      | The service here is terrible!                                                        |
+| servant      | What was it like to live in a big house with dozens of servants?                     |
+| shot         | Ronald Reagan was shot when he was President of the USA.                             |
+| shooting     | We go shooting a lot, but we never shoot animals or birds.                           |
+| silence      | I want absolute silence in the exam.                                                 |
+| silently     | The students all worked silently.                                                    |
+| simplify     | It's very difficult, so I'll simplify it for you.                                    |
+| simplicity   | Simplicity is important in good written communication.                               |
+| sang         | I sang in the choir when I was young.                                                |
+| sung         | When my dad was at school, they had a song which was sung every morning.             |
+| song         | What's the name of that song you're singing?                                         |
+| singer       | Kylie Minogue is one of my favourite singers.                                        |
+| singing      | I love Katy's singing—she's got a good voice.                                        |
+| solution     | I hope we can find a solution to this problem soon.                                  |
+| spoke        | I didn't know Len spoke Turkish.                                                     |
+| spoken       | Can you name four countries where English is spoken?                                 |
+| speaker      | I can't hear what the speaker is saying.                                             |
+| speech       | I have to give a speech at school and I'm really nervous.                            |
+| success      | What's the secret of your success?                                                   |
+| successful   | Work hard and I'm sure you'll be successful.                                         |
+| unsuccessful | I was unsuccessful in changing his mind.                                             |
+| suggestion   | Can I make a suggestion?                                                             |
+| sympathise   | I can sympathise with you because I've been through the same problems.               |
+| sympathetic  | Jody was very sympathetic when I told her about my bad luck.                         |
+| translation  | I haven't read War and Peace in Russian, but I've read a translation.                |
+| translator   | You need to work hard to get a job as a translator.                                  |
+| traveller    | If you're an experienced traveller, you'll know how important it is to be organised. |
+| truth        | Now, I want you to tell me the truth.                                                |
+| untrue       | What she said is untrue—I didn't hit her at all!                                     |
+| truthful     | To be truthful, I don't really like Liz.                                             |
+| useful       | My laptop is really useful—I don't know what I would do without it.                  |
+| useless      | You've broken the DVD player and now it's useless!                                   |
+| valuable     | Are any of these paintings valuable?                                                 |
+| visitor      | The zoo has about 250,000 visitors a year.                                           |
+| weight       | You don't need to lose weight.                                                       |
