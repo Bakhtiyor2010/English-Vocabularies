@@ -49,26 +49,24 @@
         th:first-child,
         td:first-child {
             width: 40px;
-            text-align: center;
         }
 
-        th:nth-child(2),
-        td:nth-child(2),
         th:nth-child(3),
         td:nth-child(3) {
-            width: 350px;
-            min-width: 200px;
+            width: 500px;
+            min-width: 250px;
         }
 
         th:nth-child(2),
         td:nth-child(2) {
+            width: 210px;
             min-width: 120px;
         }
 
         th:last-child,
         td:last-child {
             width: auto;
-            min-width: 300px;
+            min-width: 350px;
         }
 
         th {
@@ -92,104 +90,170 @@
                 title: "Topic Vocabulary",
                 columns: ["No.", "Word", "Definition", "Example"],
                 rows: [
-                    ["1", "beat", "win against someone", "England beat Germany."],
-                    ["2", "board game", "a game played on a board", "Chess is a popular board game."],
-                    ["3", "captain", "leader of a team", "She is the team captain."],
-                    ["4", "challenge (v)", "invite someone to compete", "They challenged us to a match."],
-                    ["5", "challenge (n)", "something difficult to do", "Climbing the mountain was a challenge."],
-                    ["6", "champion", "winner of an important competition", "He became world champion."],
-                    ["7", "cheat", "act dishonestly", "He cheated in the exam."],
-                    ["8", "classical music", "serious traditional music", "I enjoy classical music."],
-                    ["9", "club", "organisation for an activity", "I joined a tennis club."],
-                    ["10", "coach", "sports trainer", "The coach helped the team."],
-                    ["11", "competition", "event where people try to win", "She entered a competition."],
-                    ["12", "concert", "live music event", "We went to a concert."],
-                    ["13", "defeat (v)", "win against someone", "They defeated their opponents."],
-                    ["14", "defeat (n)", "failure to win", "The team suffered a defeat."],
-                    ["15", "entertaining", "fun and interesting", "The film was entertaining."],
-                    ["16", "folk music", "traditional music", "Folk music is popular here."],
-                    ["17", "group", "a small music band", "The group plays pop songs."],
-                    ["18", "gym", "place for exercise", "I go to the gym."],
-                    ["19", "have fun", "enjoy yourself", "We had fun at the party."],
-                    ["20", "interest (v)", "make someone curious", "Science interests me."],
-                    ["21", "interest (n)", "something you enjoy doing", "Reading is my main interest."],
-                    ["22", "member", "person in a group", "I am a member of the club."],
-                    ["23", "opponent", "person you compete against", "His opponent was strong."],
-                    ["24", "organise", "arrange an event", "She organised the event."],
-                    ["25", "pleasure", "feeling of happiness", "It was a pleasure to meet you."],
-                    ["26", "referee", "person who controls rules in sport", "The referee stopped the game."],
-                    ["27", "rhythm", "pattern of sound in music", "This song has a strong rhythm."],
-                    ["28", "risk (v)", "do something dangerous", "He risked his life."],
-                    ["29", "risk (n)", "possibility of danger", "There is a risk of injury."],
-                    ["30", "score (v)", "get a point in a game", "He scored two goals."],
-                    ["31", "score (n)", "number of points", "The score was 3–1."],
-                    ["32", "support (v)", "want a team to win", "I support Barcelona."],
-                    ["33", "support (n)", "help", "Thanks for your support."],
-                    ["34", "team", "group playing together", "Our team won."],
-                    ["35", "train", "practise sport", "They train every day."],
-                    ["36", "video game", "electronic game", "Kids love video games."]
+                    ["1", "beat", "to defeat someone in a game, competition, election, or battle", "England needed to beat Germany to get to the final."],
+                    ["2", "board game", "any game in which you move objects around on a special board", "I think that Trivial Pursuit is my favourite board game."],
+                    ["3", "captain", "the person who is in charge of a team or organisation", "She was captain of the Olympic swimming team."],
+                    ["4", "challenge (v)", "to invite someone to compete or fight", "The girls challenged the boys to a cricket match."],
+                    ["5", "challenge (n)", "something that needs a lot of skill, energy, and determination to deal with or achieve", "I felt I needed a new challenge at work."],
+                    ["6", "champion", "someone who has won an important competition, especially in sport", "He finally became the world heavyweight boxing champion."],
+                    ["7", "cheat", "to behave dishonestly, or to not obey rules", "Kids have always found ways of cheating in school exams."],
+                    ["8", "classical music", "serious music that is played on instruments such as the piano and the violin", "I love classical music, like Beethoven."],
+                    ["9", "club", "an organisation for people who take part in a particular activity, or the building that they use", "Why don't you join a chess club?"],
+                    ["10", "coach", "someone who trains a sports player or team", "After playing for ten years, Barry became a baseball coach."],
+                    ["11", "competition", "an organised event in which people try to win prizes by being better than other people", "He'd entered a competition in the local newspaper."],
+                    ["12", "concert", "an event at which an orchestra, band, or musician plays or sings in front of an audience", "Did you hear that the Rolling Stones did a concert in China?"],
+                    ["13", "defeat (v)", "to win against someone", "France defeated Italy 3-1."],
+                    ["14", "defeat (n)", "failure to win a competition or to succeed in doing something", "England suffered a 2-0 defeat."],
+                    ["15", "entertaining", "enjoyable or interesting", "I saw a really entertaining programme on TV last night."],
+                    ["16", "folk music", "traditional music from a particular country or region, or music played in a traditional style", "What I like about folk music is the sound of the guitar."],
+                    ["17", "group", "a small set of musicians who play pop music", "My brother has got his own group and they play in our local area."],
+                    ["18", "gym", "a room or club with equipment for doing physical exercises", "I'm thinking of joining a gym."],
+                    ["19", "have fun", "get enjoyment from an activity that is not important or serious", "We haven't had such fun for years."],
+                    ["20", "interest (v)", "to make someone want to know about or take part in something", "Photography has always interested me."],
+                    ["21", "interest (n)", "an activity that you enjoy doing when you are not working", "Tell us about your interests and hobbies."],
+                    ["22", "member", "someone who belongs to a group or an organisation", "Are you a member of the golf club?"],
+                    ["23", "opponent", "someone who is competing against you", "His opponent received only 36 per cent of the vote."],
+                    ["24", "organise", "to prepare or arrange an activity or event", "Who's organising the conference?"],
+                    ["25", "pleasure", "a feeling of happiness, enjoyment, or satisfaction", "He smiled with pleasure when she walked in."],
+                    ["26", "referee", "someone whose job is to make sure that players in a game obey the rules", "The referee blew his whistle and the game began."],
+                    ["27", "rhythm", "a regular pattern of sounds in music", "This song has got a really great rhythm."],
+                    ["28", "risk (v)", "to do something although you know that something bad could happen as a result", "He risked a lot of money on the company."],
+                    ["29", "risk (n)", "the possibility that something unpleasant or dangerous might happen", "There's a serious risk of an accident on this road."],
+                    ["30", "score (v)", "to get a point in a game or sport", "No one scored in the first half."],
+                    ["31", "score (n)", "the number of points that someone gains in a game or test", "The final score was 4-3 to United."],
+                    ["32", "support (v)", "to like a particular sports team and always want them to win", "I support West Ham - who do you support?"],
+                    ["33", "support (n)", "help that you give to a particular idea, organisation, etc", "I hope all the students will support our plans to rebuild the school."],
+                    ["34", "team", "a group of people who play a sport or game against another group", "Are you in the hockey team this year?"],
+                    ["35", "train", "to practise a sport regularly before a match or competition", "The players train five days a week."],
+                    ["36", "video game", "a game in which players use electronic controls to move images on a television or computer screen", "I don't like video games - I'd rather play outside."]
                 ]
             },
             {
                 title: "Phrasal Verbs",
                 columns: ["No.", "Phrasal Verb", "Definition", "Example"],
                 rows: [
-                    ["1", "carry on", "continue", "Please carry on with your work."],
-                    ["2", "eat out", "eat at a restaurant", "We usually eat out on weekends."],
-                    ["3", "give up", "stop doing something you regularly do", "He gave up playing football."],
-                    ["4", "join in", "participate", "Everyone joined in the game."],
-                    ["5", "send off", "make a player leave a game", "The referee sent him off."],
-                    ["6", "take up", "start a hobby or activity", "She took up swimming."],
-                    ["7", "turn down", "reduce volume", "Turn down the music."],
-                    ["8", "turn up", "increase volume", "Turn up the TV."]
+                    ["1", "carry on", "to continue", "The phone rang, but Mark just carried on."],
+                    ["2", "eat out", "to eat at a restaurant", "Would you like stay in or eat out tonight?"],
+                    ["3", "give up", "to stop doing something you regularly do", "You should give up smoking."],
+                    ["4", "join in", "to participate, take part", "Aks them if you can play — I'm sure they'll let you join in."],
+                    ["5", "send off", "to make a player leave a game", "It was a very bad foul and the referee sent the player off."],
+                    ["6", "take up", "to start (a hobby, sport, etc)", "I've taken up stamp collecting and it's really interesting."],
+                    ["7", "turn down", "to lower the volume of", "Turn the radio down — I'm trying to work."],
+                    ["8", "turn up", "to increase the volume of", "We asked our teacher to turn the CD up, so that we could hear it."]
                 ]
             },
             {
                 title: "Prepositional Phrases",
                 columns: ["No.", "Phrase", "Definition", "Example"],
                 rows: [
-                    ["1", "for a long time", "for many years/minutes/etc.", "I’ve known him for a long time."],
-                    ["2", "for fun", "for enjoyment", "We play video games for fun."],
-                    ["3", "in the middle of", "in the centre of something", "She sat in the middle of the room."],
-                    ["4", "in time (for)", "early enough", "We arrived in time for the concert."],
-                    ["5", "on CD/DVD/video", "stored in that format", "I have the movie on DVD."],
-                    ["6", "on stage", "performing in front of an audience", "The band is on stage."]
+                    ["1", "for a long time", "for many years/minutes/etc.", "I haven't seen George for a long time."],
+                    ["2", "for fun", "for enjoyment", "I sing in a band for fun."],
+                    ["3", "in the middle (of)", "in the centre of something", "In the middle of the stage, there was an elephant."],
+                    ["4", "in time (for)", "early enough", "We arrived at the cinema just in time for the start of the film."],
+                    ["5", "on CD/DVD/video", "stored in that format", "I didn't see it at the cinema, so I'm watching it on DVD tonight."],
+                    ["6", "on stage", "performing in front of an audience", "There were three actors on stage."]
                 ]
             },
             {
                 title: "Word Patterns",
                 columns: ["No.", "Pattern", "Meaning", "Example"],
                 rows: [
-                    ["1", "bored with", "not interested in something", "I’m bored with this game."],
-                    ["2", "crazy about", "like something very much", "He’s crazy about football."],
-                    ["3", "good at", "skilled in something", "She’s good at chess."],
-                    ["4", "interested in", "wanting to know about something", "I’m interested in music."],
-                    ["5", "keen on", "very interested in something", "He’s keen on swimming."],
-                    ["6", "popular with", "liked by many people", "This game is popular with kids."],
-                    ["7", "feel like", "want to do something", "I feel like watching a movie."],
-                    ["8", "listen to", "pay attention to sound", "I listen to music every day."],
-                    ["9", "take part in", "participate in something", "She took part in the competition."],
-                    ["10", "a book about", "a book on a topic", "I read a book about football."],
-                    ["11", "a fan of", "someone who likes something", "I’m a fan of classical music."],
-                    ["12", "a game against", "a match versus someone", "We played a game against our rivals."]
+                    ["1", "bored with", "not interested in something", "I’m bored with watching this film."],
+                    ["2", "crazy about", "like something very much", "Marshall is crazy about video games."],
+                    ["3", "good at", "skilled in something", "What sports are you good at?"],
+                    ["4", "interested in", "wanting to know about something", "I’m quite interested in history."],
+                    ["5", "keen on", "very interested in something", "I'm not very keen on spicy food."],
+                    ["6", "popular with", "liked by many people", "This band is popular with teenagers."],
+                    ["7", "feel like", "want to do something", "What do you feel like doing this weekend?"],
+                    ["8", "listen to", "pay attention to sound", "In my free time, I like to listen to music."],
+                    ["9", "take part in", "participate in something", "Have you ever taken part in a talent contest?"],
+                    ["10", "a book (by somebody) about", "a book on a topic", "I read a great book by an English writer about travelling around Europe."],
+                    ["11", "a fan of", "someone who likes something or someone", "If you're a fan of Tony DeVito, you'll love this latest album."],
+                    ["12", "a game against", "a match versus someone", "In a game against a local school I scored four goals."]
                 ]
             },
             {
                 title: "Word Formation",
-                columns: ["No.", "Word", "Forms"],
+                columns: ["No.", "Word", "Forms", "Examples"],
                 rows: [
-                    ["1", "act", "action, actor, inactive"],
-                    ["2", "athlete", "athletic, athletics"],
-                    ["3", "child", "children, childhood"],
-                    ["4", "collect", "collection, collector"],
-                    ["5", "entertain", "entertainment, entertaining"],
-                    ["6", "hero", "heroic, heroine"],
-                    ["7", "music", "musical, musician"],
-                    ["8", "play", "player, playful"],
-                    ["9", "sail", "sailing, sailor"],
-                    ["10", "sing", "sang, sung, song, singer, singing"]
+                    ["1", "act",
+                        ["action", "actor", "active", "inactive"],
+                        [
+                            "They say that actions speak louder than words.",
+                            "I would love to be an actor.",
+                            "Johnnie is six years old, so he's very active and has a lot of energy.",
+                            "I've been a bit inactive since I got a job in an office."
+                        ]
+                    ],
+                    ["2", "athlete",
+                        ["athletic", "athletics"],
+                        [
+                            "You need to be very athletic to play volleyball.",
+                            "I want to see the athletics at the Olympics."
+                        ]
+                    ],
+                    ["3", "child",
+                        ["children", "childhood"],
+                        [
+                            "I watched some children playing in the playground.",
+                            "My mum spent her childhood in France."
+                        ]
+                    ],
+                    ["4", "collect",
+                        ["collection", "collector"],
+                        [
+                            "John has got a great collection of football shirts.",
+                            "I sold my old stamps to a collector."
+                        ]
+                    ],
+                    ["5", "entertain",
+                        ["entertainment", "entertaining"],
+                        [
+                            "There isn't much entertainment in the evenings in my town.",
+                            "The show was very entertaining."
+                        ]
+                    ],
+                    ["6", "hero",
+                        ["heroic", "heroine"],
+                        [
+                            "The story was all about two heroic young men.",
+                            "The heroine of the book finally gets married."
+                        ]
+                    ],
+                    ["7", "music",
+                        ["musical", "musician"],
+                        [
+                            "Do you have much musical talent?",
+                            "It's not easy becoming a professional musician."
+                        ]
+                    ],
+                    ["8", "play",
+                        ["player", "playful"],
+                        [
+                            "One of the players was injured when he scored a goal.",
+                            "My baby brother is very playful."
+                        ]
+                    ],
+                    ["9", "sail",
+                        ["sailing", "sailor"],
+                        [
+                            "I love sailing and I try to go every summer.",
+                            "A sailor helped us put our bags onto the ship."
+                        ]
+                    ],
+                    ["10", "sing",
+                        ["sang", "sung", "song", "singer", "singing"],
+                        [
+                            "I sang in the choir when I was young.",
+                            "The song was sung every morning at school.",
+                            "What's the name of that song you're singing?",
+                            "Kylie Minogue is one of my favourite singers.",
+                            "I love Katy's singing — she's got a good voice."
+                        ]
+                    ]
                 ]
             }
+
         ];
 
         const contentDiv = document.getElementById("content");
@@ -197,7 +261,7 @@
         tables.forEach(tbl => {
             const section = document.createElement("section");
             const h2 = document.createElement("h2");
-            h2.textContent = tbl.title;
+            h2.innerHTML = tbl.title;
             section.appendChild(h2);
 
             const wrapper = document.createElement("div");
@@ -208,19 +272,53 @@
             const trHead = document.createElement("tr");
             tbl.columns.forEach(col => {
                 const th = document.createElement("th");
-                th.textContent = col;
+                th.innerHTML = col;
                 trHead.appendChild(th);
             });
             table.appendChild(trHead);
 
             tbl.rows.forEach(row => {
-                const tr = document.createElement("tr");
-                row.forEach(cell => {
-                    const td = document.createElement("td");
-                    td.textContent = cell;
-                    tr.appendChild(td);
-                });
-                table.appendChild(tr);
+
+                if (Array.isArray(row[2]) && Array.isArray(row[3])) {
+
+                    const forms = row[2];
+                    const examples = row[3];
+                    const max = Math.max(forms.length, examples.length);
+
+                    for (let i = 0; i < max; i++) {
+                        const tr = document.createElement("tr");
+                        if (i === 0) {
+                            const tdNo = document.createElement("td");
+                            tdNo.textContent = row[0];
+                            tdNo.rowSpan = max;
+                            tr.appendChild(tdNo);
+
+                            const tdWord = document.createElement("td");
+                            tdWord.textContent = row[1];
+                            tdWord.rowSpan = max;
+                            tr.appendChild(tdWord);
+                        }
+
+                        const tdForm = document.createElement("td");
+                        tdForm.textContent = forms[i] || "";
+                        tr.appendChild(tdForm);
+
+                        const tdExample = document.createElement("td");
+                        tdExample.textContent = examples[i] || "";
+                        tr.appendChild(tdExample);
+
+                        table.appendChild(tr);
+                    }
+
+                } else {
+                    const tr = document.createElement("tr");
+                    row.forEach(cell => {
+                        const td = document.createElement("td");
+                        td.textContent = cell;
+                        tr.appendChild(td);
+                    });
+                    table.appendChild(tr);
+                }
             });
 
             wrapper.appendChild(table);
