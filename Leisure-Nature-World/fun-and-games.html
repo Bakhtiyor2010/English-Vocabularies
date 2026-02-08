@@ -77,22 +77,10 @@
             background: #eef2ff;
         }
 
-        ul {
-            margin: 0;
-            padding-left: 20px;
-        }
-
         @media(max-width:910px) {
             body {
                 font-size: 15px;
                 line-height: 25px;
-            }
-
-            th:nth-child(3),
-            td:nth-child(3),
-            th:last-child,
-            td:last-child {
-                min-width: 300px;
             }
         }
     </style>
@@ -277,17 +265,9 @@
 
         const contentDiv = document.getElementById("content");
 
-        function splitIntoChunks(array, chunkSize) {
-            const chunks = [];
-            for (let i = 0; i < array.length; i += chunkSize) {
-                chunks.push(array.slice(i, i + chunkSize));
-            }
-            return chunks;
-        }
-
         function renderTables() {
             contentDiv.innerHTML = "";
-            const isSmallScreen = window.innerWidth <= 910;
+            const isSmallScreen = window.innerWidth <= 920;
 
             tables.forEach(tbl => {
                 const section = document.createElement("section");
@@ -295,76 +275,110 @@
                 h2.textContent = tbl.title;
                 section.appendChild(h2);
 
-                let chunks = [tbl.rows];
-                if (isSmallScreen && ["Topic Vocabulary", "Word Patterns", "Word Formation"].includes(tbl.title)) {
-                    chunks = splitIntoChunks(tbl.rows, 6);
+                if (isSmallScreen) {
+                    renderList(tbl, section);
+                } else {
+                    renderTable(tbl, section);
                 }
-
-                chunks.forEach(chunk => {
-                    const wrapper = document.createElement("div");
-                    wrapper.className = "table-wrapper";
-
-                    const table = document.createElement("table");
-
-                    const trHead = document.createElement("tr");
-                    tbl.columns.forEach(col => {
-                        const th = document.createElement("th");
-                        th.textContent = col;
-                        trHead.appendChild(th);
-                    });
-                    table.appendChild(trHead);
-
-                    chunk.forEach(row => {
-                        if (Array.isArray(row[2]) && Array.isArray(row[3])) {
-                            const forms = row[2];
-                            const examples = row[3];
-                            const max = Math.max(forms.length, examples.length);
-
-                            for (let i = 0; i < max; i++) {
-                                const tr = document.createElement("tr");
-                                if (i === 0) {
-                                    const tdNo = document.createElement("td");
-                                    tdNo.textContent = row[0];
-                                    tdNo.rowSpan = max;
-                                    tr.appendChild(tdNo);
-
-                                    const tdWord = document.createElement("td");
-                                    tdWord.textContent = row[1];
-                                    tdWord.rowSpan = max;
-                                    tr.appendChild(tdWord);
-                                }
-
-                                const tdForm = document.createElement("td");
-                                tdForm.textContent = forms[i] || "";
-                                tr.appendChild(tdForm);
-
-                                const tdExample = document.createElement("td");
-                                tdExample.textContent = examples[i] || "";
-                                tr.appendChild(tdExample);
-
-                                table.appendChild(tr);
-                            }
-                        } else {
-                            const tr = document.createElement("tr");
-                            row.forEach(cell => {
-                                const td = document.createElement("td");
-                                td.textContent = cell;
-                                tr.appendChild(td);
-                            });
-                            table.appendChild(tr);
-                        }
-                    });
-
-                    wrapper.appendChild(table);
-                    section.appendChild(wrapper);
-                });
 
                 contentDiv.appendChild(section);
             });
         }
 
-        renderTables();
+        function renderTable(tbl, section) {
+            const wrapper = document.createElement("div");
+            wrapper.className = "table-wrapper";
 
+            const table = document.createElement("table");
+
+            const trHead = document.createElement("tr");
+            tbl.columns.forEach(col => {
+                const th = document.createElement("th");
+                th.textContent = col;
+                trHead.appendChild(th);
+            });
+            table.appendChild(trHead);
+
+            tbl.rows.forEach(row => {
+                if (Array.isArray(row[2]) && Array.isArray(row[3])) {
+                    const forms = row[2];
+                    const examples = row[3];
+                    const max = Math.max(forms.length, examples.length);
+
+                    for (let i = 0; i < max; i++) {
+                        const tr = document.createElement("tr");
+
+                        if (i === 0) {
+                            const tdNo = document.createElement("td");
+                            tdNo.textContent = row[0];
+                            tdNo.rowSpan = max;
+                            tr.appendChild(tdNo);
+
+                            const tdWord = document.createElement("td");
+                            tdWord.textContent = row[1];
+                            tdWord.rowSpan = max;
+                            tr.appendChild(tdWord);
+                        }
+
+                        const tdForm = document.createElement("td");
+                        tdForm.textContent = forms[i] || "";
+                        tr.appendChild(tdForm);
+
+                        const tdExample = document.createElement("td");
+                        tdExample.textContent = examples[i] || "";
+                        tr.appendChild(tdExample);
+
+                        table.appendChild(tr);
+                    }
+                } else {
+                    const tr = document.createElement("tr");
+                    row.forEach(cell => {
+                        const td = document.createElement("td");
+                        td.textContent = cell;
+                        tr.appendChild(td);
+                    });
+                    table.appendChild(tr);
+                }
+            });
+
+            wrapper.appendChild(table);
+            section.appendChild(wrapper);
+        }
+
+        function renderList(tbl, section) {
+            const ol = document.createElement("ol");
+
+            tbl.rows.forEach(row => {
+                const li = document.createElement("li");
+
+                if (Array.isArray(row[2]) && Array.isArray(row[3])) {
+                    li.innerHTML = `
+                        <b>Word:</b> <i>${row[1]}</i><br>
+                        <b>Forms:</b> ${row[2].join(", ")}<br>
+                        <b>Examples:</b><br>
+                        ${row[3].map(ex => `– ${ex}`).join("<br>")}
+                    `;
+                }
+                else {
+                    li.innerHTML = `
+                        ${tbl.columns
+                            .slice(1)
+                            .map((col, i) =>
+                                `<b>${col}:</b> ${row[i + 1]}`
+                            )
+                            .join("<br>")
+                        }
+                    `;
+                }
+
+                ol.appendChild(li);
+                ol.appendChild(document.createElement("br"));
+            });
+
+            section.appendChild(ol);
+        }
+
+        renderTables();
         window.addEventListener("resize", renderTables);
     </script>
 </body>
