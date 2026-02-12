@@ -1,0 +1,97 @@
+body {
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 20px;
+    color: #1f2933;
+    line-height: 30px;
+    letter-spacing: 1px;
+    font-size: 16px;
+    word-spacing: 2px;
+}
+
+a {
+    text-decoration: none;
+    color: inherit;
+    transition: all 0.2s;
+    font-weight: 700;
+}
+
+a:hover {
+    color: #1272d1;
+}
+
+table {
+    width: 100%;
+    border-collapse: collapse;
+    min-width: 500px;
+    table-layout: fixed;
+    background: white;
+}
+
+th,
+td {
+    border: 1px solid #e5e7eb;
+    padding: 8px;
+    text-align: left;
+    overflow: hidden;
+    word-wrap: break-word;
+}
+
+th:first-child,
+td:first-child {
+    width: 35px;
+}
+
+th:nth-child(2),
+td:nth-child(2) {
+    width: 200px;
+    min-width: 100px;
+}
+
+th:nth-child(3),
+td:nth-child(3),
+th:last-child,
+td:last-child {
+    width: calc((100% - (30px + 200px)) / 2);
+}
+
+th {
+    background: #eef2ff;
+}
+
+tr {
+    transition: all 0.2s;
+}
+
+tr:hover {
+    background: #f1f5f9;
+}
+
+#groups ol {
+  list-style: decimal inside;
+  padding-left: 0;
+}
+
+#groups li a {
+  display: block;
+  margin: 5px 0;
+}
+
+@media screen and (max-width: 1000px) {
+    body {
+        text-align: justify;
+        background: white;
+    }
+
+    th:nth-child(3),
+    td:nth-child(3),
+    th:last-child,
+    td:last-child {
+        width: 350px;
+    }
+    
+    #groups a {
+    display: block;
+    margin: 5px 0;
+  }
+}

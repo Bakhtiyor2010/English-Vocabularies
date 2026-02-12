@@ -1,56 +1,31 @@
 <!DOCTYPE html>
 <html lang="en">
 <head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>English Vocabulary</title>
-    <style>
-        body {
-            font-family: Arial, sans-serif;
-            background: #f4f6f8;
-            margin: 0;
-            padding: 20px;
-        }
-
-        h1 {
-            text-align: center;
-            color: #333;
-        }
-
-        .links {
-            max-width: 500px;
-            margin: 20px auto;
-            padding: 10px;
-            background: #ffffff;
-            border-radius: 10px;
-            box-shadow: 0 4px 10px rgba(0, 0, 0, 0.1);
-            overflow-y: auto;
-            max-height: 70vh;
-        }
-
-        a {
-            display: block;
-            text-decoration: none;
-            color: white;
-            background: #3b82f6;
-            padding: 10px;
-            margin: 5px 0;
-            border-radius: 5px;
-            transition: all 0.3s;
-        }
-
-        a:hover {
-            background: #2563eb;
-        }
-    </style>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>English Vocabulary</title>
+  <link rel="stylesheet" href="css/main.css">
+  <script src="js/script.js" defer="true"></script>
 </head>
 <body>
-    <h1>English Vocabulary</h1>
+  <header>
+    <h1>Vocabulary App</h1>
+  </header>
 
-    <div class="links">
-        <a href="./Leisure-Nature-World/fun-and-games.html" target="_blank">Fun and Games</a>
-        <a href="./Education-Thinking-Progress/learning-and-doing.html" target="_blank">Learning and doing</a>
-        <a href="./Movement-Communication-Exchange/coming-and-going.html" target="_blank">Coming and going</a>
+  <main>
+    <section id="search-box"></section>
+    <section id="results"></section>
+    <aside id="groups"></aside>
+    <div id="content"></div>
+  </main>
+
+  <div id="modal">
+    <div>
+      <span id="modal-close">&times;</span>
+      <p><b>Word:</b> <span id="modal-word"></span></p>
+      <p><b>Definition:</b> <span id="modal-definition"></span></p>
+      <p><b>Example:</b> <span id="modal-example"></span></p>
     </div>
+  </div>
 </body>
 </html>
