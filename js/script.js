@@ -204,10 +204,10 @@ document.addEventListener("DOMContentLoaded", async () => {
             ol.appendChild(li);
           });
         } else {
-          const li = document.createElement("li");
-          li.textContent = `No word found for "${value}"`;
-          li.style.color = "red";
-          ol.appendChild(li);
+          const span = document.createElement("span");
+          span.textContent = `No word found for "${value}"`;
+          span.style.color = "red";
+          ol.appendChild(span);
         }
       });
 

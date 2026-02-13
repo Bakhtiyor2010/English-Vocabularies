@@ -1,0 +1,96 @@
+{
+    "topic": "<VOCABULARY_TOPIC_NAME>",
+    "sections": [
+        {
+            "title": "Topic Vocabulary",
+            "columns": [
+                "No.",
+                "Word",
+                "Definition",
+                "Example"
+            ],
+            "rows": [
+                [
+                    "<NUMBER>",
+                    "<WORD>",
+                    "<DEFINITION>",
+                    "<EXAMPLE>"
+                ]
+            ]
+        },
+        {
+            "title": "Phrasal Verbs",
+            "columns": [
+                "No.",
+                "Phrasal Verb",
+                "Definition",
+                "Example"
+            ],
+            "rows": [
+                [
+                    "<NUMBER>",
+                    "<PHRASAL VERB>",
+                    "<DEFINITION>",
+                    "<EXAMPLE>"
+                ]
+            ]
+        },
+        {
+            "title": "Prepositional Phrases",
+            "columns": [
+                "No.",
+                "Phrase",
+                "Definition",
+                "Example"
+            ],
+            "rows": [
+                [
+                    "<NUMBER>",
+                    "<PHRASE>",
+                    "<DEFINITION>",
+                    "<EXAMPLE>"
+                ]
+            ]
+        },
+        {
+            "title": "Word Patterns",
+            "columns": [
+                "No.",
+                "Pattern",
+                "Meaning",
+                "Example"
+            ],
+            "rows": [
+                [
+                    "<NUMBER>",
+                    "<PATTERN>",
+                    "<MEANING>",
+                    "<EXAMPLE>"
+                ]
+            ]
+        },
+        {
+            "title": "Word Formation",
+            "columns": [
+                "No.",
+                "Word",
+                "Forms",
+                "Examples"
+            ],
+            "rows": [
+                [
+                    "<NUMBER>",
+                    "<WORD>",
+                    [
+                        "<FORM1>",
+                        "<FROM2>"
+                    ],
+                    [
+                        "<EXAMPLE_FOR_FROM1>",
+                        "<EXAMPLE_FOR_FROM2>"
+                    ]
+                ]
+            ]
+        }
+    ]
+}

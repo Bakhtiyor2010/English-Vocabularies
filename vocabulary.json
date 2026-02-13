@@ -1638,5 +1638,539 @@
         ]
       }
     ]
+  },
+  {
+    "topic": "Friends and Relations",
+    "sections": [
+      {
+        "title": "Topic Vocabulary",
+        "columns": [
+          "No.",
+          "Word",
+          "Definition",
+          "Example"
+        ],
+        "rows": [
+          [
+            "1",
+            "apologise",
+            "to tell someone that you are sorry for doing something wrong",
+            "You should apologise to your brother."
+          ],
+          [
+            "2",
+            "boyfriend",
+            "a man or boy that you are having a romantic relationship with",
+            "She's got a new boyfriend."
+          ],
+          [
+            "3",
+            "close",
+            "connected by shared feelings such as love and respect",
+            "My brother and I are very close."
+          ],
+          [
+            "4",
+            "confident",
+            "certain about your abilities and not nervous or frightened",
+            "I was starting to feel more confident about the exam."
+          ],
+          [
+            "5",
+            "cool",
+            "a cool person is one that you like or admire, or is very fashionable",
+            "Jake is really cool!"
+          ],
+          [
+            "6",
+            "couple",
+            "two people who are married to each other, or who have a romantic relationship with each other",
+            "Bill and Melissa make a great couple."
+          ],
+          [
+            "7",
+            "decorate",
+            "to put new paint or paper on the walls of a room",
+            "We decorated the kitchen last weekend."
+          ],
+          [
+            "8",
+            "defend",
+            "to say things to support someone or something",
+            "We will defend their right to free speech."
+          ],
+          [
+            "9",
+            "divorced",
+            "no longer married because your marriage has been legally ended",
+            "After they got divorced, she never remarried."
+          ],
+          [
+            "10",
+            "flat",
+            "a set of rooms for living in, usually on one floor of a large building",
+            "The family live in a fourth-floor flat."
+          ],
+          [
+            "11",
+            "generous",
+            "giving people more of your time or money than is usual or expected",
+            "She is a warm and generous human being."
+          ],
+          [
+            "12",
+            "girlfriend",
+            "a girl or woman that you are having a romantic relationship with",
+            "Have you got a girlfriend?"
+          ],
+          [
+            "13",
+            "grateful",
+            "the feeling that you want to thank someone because they have given you something or done something for you",
+            "Thanks for coming with me. I'm really grateful."
+          ],
+          [
+            "14",
+            "guest",
+            "someone that you have invited to your home or your party",
+            "He was a guest at our wedding."
+          ],
+          [
+            "15",
+            "independent",
+            "not depending on other people",
+            "Michelle is young, independent and confident."
+          ],
+          [
+            "16",
+            "introduce",
+            "to tell someone another person's name when they meet for the first time",
+            "I'd like to introduce you to my friend Martin."
+          ],
+          [
+            "17",
+            "loving",
+            "feeling or showing love",
+            "Cats are really loving animals."
+          ],
+          [
+            "18",
+            "loyal",
+            "someone who is loyal continues to support a person or organisation, or idea in difficult times",
+            "These are people who have remained loyal to the company for years."
+          ],
+          [
+            "19",
+            "mood",
+            "the way that someone is feeling, or the way that a group of people is feeling at a particular time",
+            "I had never seen Ann in such a good mood before."
+          ],
+          [
+            "20",
+            "neighbourhood",
+            "a particular area of a town",
+            "We live in a quiet neighbourhood."
+          ],
+          [
+            "21",
+            "ordinary",
+            "normal or average, and not unusual or special",
+            "It was just an ordinary Saturday morning."
+          ],
+          [
+            "22",
+            "patient",
+            "someone who is patient is able to wait for a long time or deal with a difficult situation without becoming angry or upset",
+            "Susan is very patient with the children."
+          ],
+          [
+            "23",
+            "private",
+            "a private person does not talk to other people about their personal life or feelings",
+            "Damian is a very private person."
+          ],
+          [
+            "24",
+            "recognise",
+            "to know someone or something because you have seen, heard, or met them before",
+            "I thought I recognised your voice!"
+          ],
+          [
+            "25",
+            "relation",
+            "a member of your family",
+            "All our relations are coming to the party."
+          ],
+          [
+            "26",
+            "rent (v)",
+            "to pay money regularly to use a house, room, office, etc that belongs to someone else",
+            "How long have you been renting this place?"
+          ],
+          [
+            "27",
+            "rent (n)",
+            "an amount of money that you pay regularly for using a house, room, office, etc that belongs to someone else",
+            "After she'd paid her rent, Jan had no money left for food."
+          ],
+          [
+            "28",
+            "respect (v)",
+            "to treat someone in a way that shows that you think they are important and should be admired",
+            "People will respect you for telling the truth."
+          ],
+          [
+            "29",
+            "respect (n)",
+            "the attitude that someone is important and should be admired, and that you should treat them politely",
+            "She's worked hard to gain the respect of her colleagues."
+          ],
+          [
+            "30",
+            "single",
+            "not married, or not in a romantic relationship or divorced.",
+            "Please state whether you are single, married,"
+          ],
+          [
+            "31",
+            "stranger",
+            "someone who you do not know",
+            "I didn't want to share a room with a complete stranger."
+          ],
+          [
+            "32",
+            "trust (v)",
+            "to believe that someone or something is good, honest, or reliable",
+            "You can trust Dana."
+          ],
+          [
+            "33",
+            "trust (n)",
+            "a feeling that you trust someone or something",
+            "The doctor-patient relationship has to be based on trust."
+          ]
+        ]
+      },
+      {
+        "title": "Phrasal Verbs",
+        "columns": [
+          "No.",
+          "Phrasal Verb",
+          "Definition",
+          "Example"
+        ],
+        "rows": [
+          [
+            "1",
+            "bring up",
+            "to take care of a child until he or she becomes an adult",
+            "She brought up three sons on her own."
+          ],
+          [
+            "2",
+            "fall out (with)",
+            "to have an argument with someone and stop being friends",
+            "Have you two fallen out?"
+          ],
+          [
+            "3",
+            "get on (with)",
+            "to have a good relationship (with)",
+            "She seems to get on with everybody."
+          ],
+          [
+            "4",
+            "go out with",
+            "to be the boyfriend/girlfriend of",
+            "Greg used to go out with Katy."
+          ],
+          [
+            "5",
+            "grow up",
+            "to become older (for children)",
+            "He rarely saw his father while he was growing up."
+          ],
+          [
+            "6",
+            "let down",
+            "to disappoint",
+            "You've really let me down."
+          ],
+          [
+            "7",
+            "look after",
+            "to take care of",
+            "It's hard work looking after three children all day."
+          ],
+          [
+            "8",
+            "split up",
+            "to end a relationship",
+            "Tommy and Liz have just split up. It's very sad!"
+          ]
+        ]
+      },
+      {
+        "title": "Prepositional Phrases",
+        "columns": [
+          "No.",
+          "Phrase",
+          "Definition",
+          "Example"
+        ],
+        "rows": [
+          [
+            "1",
+            "by yourself",
+            "alone",
+            "Did you go to the cinema by yourself?"
+          ],
+          [
+            "2",
+            "in common (with)",
+            "shared / alike",
+            "I've got nothing in common with you!"
+          ],
+          [
+            "3",
+            "in contact (with)",
+            "communicating with",
+            "I'm still in contact with several friends from school."
+          ],
+          [
+            "4",
+            "in love (with)",
+            "romantically attached",
+            "I'm in love with Chris."
+          ],
+          [
+            "5",
+            "on purpose",
+            "deliberately",
+            "I didn't do it on purpose."
+          ],
+          [
+            "6",
+            "on your own",
+            "alone",
+            "Did you go to the cinema on your own?"
+          ]
+        ]
+      },
+      {
+        "title": "Word Patterns",
+        "columns": [
+          "No.",
+          "Pattern",
+          "Meaning",
+          "Example"
+        ],
+        "rows": [
+          [
+            "1",
+            "fond of",
+            "liking someone / something",
+            "I'm really fond of my dog!"
+          ],
+          [
+            "2",
+            "jealous of",
+            "envious of",
+            "I'm jealous of Katy because she always has such nice clothes!"
+          ],
+          [
+            "3",
+            "kind to",
+            "friendly / generous towards",
+            "You've been very kind to me. Thank you!"
+          ],
+          [
+            "4",
+            "married to",
+            "wedded / spouse",
+            "My brother is married to a woman called Margo."
+          ],
+          [
+            "5",
+            "proud of",
+            "feeling satisfaction",
+            "I'm sure your parents are very proud of you."
+          ],
+          [
+            "6",
+            "admire sb for",
+            "to respect / look up to someone",
+            "I really admire you for everything you've achieved."
+          ],
+          [
+            "7",
+            "apologise (to sb) for",
+            "to say sorry",
+            "Simon apologised to me for losing my pen."
+          ],
+          [
+            "8",
+            "argue (with sb) about",
+            "to have a disagreement",
+            "I don't want to argue with you about something so unimportant!"
+          ],
+          [
+            "9",
+            "care about",
+            "to be concerned",
+            "Everyone should care about protecting the environment."
+          ],
+          [
+            "10",
+            "chat (to sb) about",
+            "to talk informally",
+            "I'll have a chat to Mrs Peters about your marks."
+          ],
+          [
+            "11",
+            "an argument (with sb) about",
+            "a disagreement",
+            "I had an argument with my dad about how much pocket money I get."
+          ],
+          [
+            "12",
+            "a relationship with",
+            "connection / association",
+            "Do you have a good relationship with your parents?"
+          ]
+        ]
+      },
+      {
+        "title": "Word Formation",
+        "columns": [
+          "No.",
+          "Word",
+          "Forms",
+          "Examples"
+        ],
+        "rows": [
+          [
+            "1",
+            "able",
+            [
+              "ability",
+              "disabled",
+              "unable"
+            ],
+            [
+              "I admire your ability to speak so many different languages.",
+              "Lots of disabled people have jobs.",
+              "I'm unable to attend the meeting tomorrow."
+            ]
+          ],
+          [
+            "2",
+            "honest",
+            [
+              "dishonest",
+              "honesty"
+            ],
+            [
+              "I don't like people who are dishonest.",
+              "Honesty is a very important quality in a friend."
+            ]
+          ],
+          [
+            "3",
+            "admire",
+            [
+              "admiration"
+            ],
+            [
+              "I'm full of admiration for Jamie."
+            ]
+          ],
+          [
+            "4",
+            "introduce",
+            [
+              "introduction"
+            ],
+            [
+              "I didn't read the introduction to the book."
+            ]
+          ],
+          [
+            "5",
+            "care",
+            [
+              "careful",
+              "careless"
+            ],
+            [
+              "Be careful!",
+              "I made a lot of silly mistakes because I was careless."
+            ]
+          ],
+          [
+            "6",
+            "lie",
+            [
+              "liar",
+              "lying"
+            ],
+            [
+              "You're a liar!",
+              "Lying to your friends is very bad."
+            ]
+          ],
+          [
+            "7",
+            "confident",
+            [
+              "confidence"
+            ],
+            [
+              "You need confidence to perform in public."
+            ]
+          ],
+          [
+            "8",
+            "person",
+            [
+              "personality",
+              "personal"
+            ],
+            [
+              "Fiona has got a great personality.",
+              "I've got a few personal problems to sort out."
+            ]
+          ],
+          [
+            "9",
+            "forgive",
+            [
+              "forgave",
+              "forgiven",
+              "forgiveness"
+            ],
+            [
+              "Colin apologised, so I forgave him.",
+              "I've forgiven you.",
+              "I'm asking for your forgiveness."
+            ]
+          ],
+          [
+            "10",
+            "relate",
+            [
+              "relative",
+              "relation",
+              "relationship"
+            ],
+            [
+              "Are all your relatives coming to the wedding?",
+              "Are all your relations coming to the wedding?",
+              "I have a great relationship with all my teachers."
+            ]
+          ]
+        ]
+      }
+    ]
   }
 ]
