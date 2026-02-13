@@ -27,7 +27,6 @@ a:hover {
 table {
     width: 100%;
     border-collapse: collapse;
-    min-width: 500px;
     table-layout: fixed;
     background: white;
 }
@@ -48,15 +47,14 @@ td:first-child {
 
 th:nth-child(2),
 td:nth-child(2) {
-    width: 200px;
-    min-width: 100px;
+    width: 250px;
 }
 
 th:nth-child(3),
 td:nth-child(3),
 th:last-child,
 td:last-child {
-    width: calc((100% - (30px + 200px)) / 2);
+    width: calc((100% - (30px + 250px)) / 2);
 }
 
 th {
@@ -72,13 +70,44 @@ tr:hover {
 }
 
 #groups ol {
-  list-style: decimal inside;
-  padding-left: 0;
+    list-style: decimal inside;
+    padding-left: 0;
 }
 
 #groups li a {
-  display: block;
-  margin: 5px 0;
+    display: block;
+    margin: 5px 0;
+}
+
+.speaker-btn {
+    width: 32px;
+    height: 32px;
+    border-radius: 50%;
+    border: 2px solid #333;
+    background-color: #fff;
+    cursor: pointer;
+    display: inline-flex;
+    justify-content: center;
+    align-items: center;
+    font-size: 12px;
+    transition: background-color 0.2s, transform 0.2s;
+}
+
+.speaker-btn:hover {
+    background-color: #333;
+    color: #fff;
+    transform: scale(1.1);
+}
+
+.speaker-wrapper {
+    display: flex;
+    gap: 5px;
+}
+
+.word-wrapper {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
 }
 
 @media screen and (max-width: 1000px) {
@@ -90,15 +119,25 @@ tr:hover {
         background: white;
     }
 
+    h2 {
+        margin: 60px 0;
+    }
+
     th:nth-child(3),
     td:nth-child(3),
     th:last-child,
     td:last-child {
         width: 350px;
     }
-    
+
     #groups a {
-    display: block;
-    margin: 5px 0;
-  }
+        display: block;
+        margin: 5px 0;
+    }
+
+    .speaker-btn {
+        width: 60px;
+        height: 60px;
+        font-size: 20px;
+    }
 }
