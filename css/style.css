@@ -84,6 +84,9 @@ tr:hover {
 @media screen and (max-width: 1000px) {
     body {
         text-align: justify;
+        font-size: 40px;
+        padding: 50px;
+        line-height: 60px;
         background: white;
     }
 
